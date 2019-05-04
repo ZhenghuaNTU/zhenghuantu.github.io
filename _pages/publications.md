@@ -6,9 +6,9 @@ author_profile: true
 
 ## Journal publications
 
-<b>Group Greedy Method for Sensor Placement</b> <br> 
+<b>[Group Greedy Method for Sensor Placement](https://ieeexplore.ieee.org/abstract/document/8658116)</b> <br> 
 Chaoyang Jiang, <b>Zhenghua Chen*</b>, Rong Su, Yeng Chai Soh.
-<i>IEEE Transactions on Signal Processing</i>. (<b>*Corresponding Author</b>)
+<i>IEEE Transactions on Signal Processing</i>, 2019. (<b>*Corresponding Author</b>)
 
 <b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
 Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
