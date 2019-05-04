@@ -1,14 +1,14 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com.sg/citations?user=WUgu3nwAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-## Deep Learning
+## Journal publications
 
-<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
-<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+<b>Group Greedy Method for Sensor Placement</b> <br> 
+Chaoyang Jiang, <b>Zhenghua Chen*</b>, Rong Su, Yeng Chai Soh.
+<i>IEEE Transactions on Signal Processing</i>. (<b>*Corresponding Author<\b>)
 
 <b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
 Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
