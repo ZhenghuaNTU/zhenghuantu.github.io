@@ -4,7 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Institute for Infocomm Research, A*STAR<br>
+1 Fusionopolis Way, Connexis N11C013, Singapore 138632<br>
+Email: chen0832 [at] e.ntu.edu.sg
+
 
