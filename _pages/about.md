@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://zhenghuantu.github.io/files/ChenZhenghua.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://ZhenghuaNTU.github.io/images/ChenZhenghua.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Scientist at [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (A*STAR), Singapore.
