@@ -13,7 +13,7 @@ main:
   #  url: /portfolio/
         
   - title: "Professional Activities"
-    url: /professional/
+    url: /awards/
     
   - title: "Contact"
     url: /contact/
