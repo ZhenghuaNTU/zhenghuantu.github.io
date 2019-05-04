@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
-title: "Awards & Honors"
-permalink: /awards/
+title: "Professional Activities"
+permalink: /professional/
 author_profile: true
 ---
 * **IEEE Special Scholarship** (Top 2 students in School of Electronic Information and Electrical Engineering), Shanghai Jiao Tong University. 2017
