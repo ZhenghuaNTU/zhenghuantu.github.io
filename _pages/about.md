@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+## Education
+** PhD: [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx), 2012-2017
+** BEng: [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), 2007-2011
 
+## Education
 * I am a Scientist at [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (A*STAR), Singapore.
 
 * My research interests lie in the general area of machine learning and deep learning based intelligent occupant sensing in smart buildings, particularly in occupancy estimation, indoor localization and human activity recognition.
