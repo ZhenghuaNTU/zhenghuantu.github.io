@@ -8,16 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://ZhenghuaNTU.github.io/images/ChenZhenghua.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
 
 * I am a Scientist at [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (A*STAR), Singapore.
 
 * My research interests lie in the general area of machine learning and deep learning based intelligent occupant sensing in smart buildings, particularly in occupancy estimation, indoor localization and human activity recognition.
-* I received my Bachelor’s Degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) and P
-hD's Degree from [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx) under the supervision of Prof. [Yeng Chai Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EYCSOH). After graduation, I have been working at NTU as a Research Fellow under the supervision of IEEE Fellow, IFAC Fellow, Prof. [Lihua Xie](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=elhxie).
+* I received my Bachelor’s Degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) and PhD's Degree from [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx) under the supervision of Prof. [Yeng Chai Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EYCSOH). After graduation, I have been working at NTU as a Research Fellow under the supervision of IEEE Fellow, IFAC Fellow, Prof. [Lihua Xie](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=elhxie).
 
 # Recent News
-* April 21, 2019. Three papers accepted to ICML 2019.
-* November 3, 2018. One [paper](http://lantaoyu.com/publications/RLSGAAAI19) accepted to AAAI 2019.
+* We are orgnizing a special issue at [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) (IF: 3.241), [Special Issue on Deep Learning for Human Activity Recognition](https://www.journals.elsevier.com/neurocomputing/call-for-papers/special-issue-on-deep-learning-for-human-activity-recognitio), submissiong deadline is September 1, 2019.
+* We are orgnizing a workshop at [IJCAI](https://ijcai19.org/) 2019, named "Deep Learning for Human Activity Recognition". The submission deadline is May 9, 2019.
