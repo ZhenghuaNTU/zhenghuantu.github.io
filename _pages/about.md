@@ -12,7 +12,7 @@ redirect_from:
 
 * I obtained my Bachelor’s Degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) at 2011 and PhD's Degree from [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx) at 2017 under the supervision of Prof. [Yeng Chai Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EYCSOH). After graduation, I have been working at NTU as a Research Fellow under the supervision of IEEE Fellow, IFAC Fellow, Prof. [Lihua Xie](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=elhxie).
 
-* My research interests lie in the general area of machine learning and deep learning based intelligent occupant sensing in smart buildings, particularly in occupancy estimation, indoor localization and human activity recognition.
+* My research interest is machine learning and deep learning based intelligent occupant sensing in smart buildings, particularly in occupancy estimation, indoor localization and human activity recognition.
 
 
 # Recent News
