@@ -87,7 +87,7 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?user=WUgu3nwAAAAJ&hl=en"
-  email            : "chen0832@e.ntu.edu.sg"
+  #email            : "chen0832@e.ntu.edu.sg"
   researchgate     :  "https://www.researchgate.net/profile/Zhenghua_Chen"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhenghuaNTU"
+  #github           : "ZhenghuaNTU"
   google_plus      :
   keybase          :
   instagram        :
