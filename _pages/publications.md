@@ -16,18 +16,20 @@ author_profile: true
 ## Journal publications
 
 <b>[Group Greedy Method for Sensor Placement](https://ieeexplore.ieee.org/abstract/document/8658116)</b> <br> 
-Chaoyang Jiang, <b>Zhenghua Chen*</b>, Rong Su, Yeng Chai Soh.
+Chaoyang Jiang, <b>Zhenghua Chen*</b>, Rong Su, Yeng Chai Soh,
 <i>IEEE Transactions on Signal Processing</i>, 2019. (<b>*Corresponding Author</b>)
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+<b>[A Novel Semi-supervised Deep Learning Method for Human Activity Recognition](https://ieeexplore.ieee.org/document/8586957)</b> <br> 
+Qingchang Zhu, <b>Zhenghua Chen*</b>, Yeng Chai Soh,
+<i>IEEE Transactions on Industrial Informatics</i>, 2018. (<b>*Corresponding Author</b>)
 
-<b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
-Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+<b>[WiFi CSI Based Passive Human Activity Recognition Using Attention Based BLSTM](https://ieeexplore.ieee.org/abstract/document/8514811)</b> <br> 
+<b>Zhenghua Chen</b>, Le Zhang, Chaoyang Jiang, Zhiguang Cao, Wei Cui,
+<i>IEEE Transactions on Mobile Computing</i>, 2018. 
 
-<b>[Variational Bottleneck  Domain Adaptation](http://lantaoyu.com/publications/VBDA)</b> <br>
-Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu. <i>In submission to IJCAI 2019.</i>
+<b>[A Novel Ensemble ELM for Human Activity Recognition Using Smartphone Sensors](https://ieeexplore.ieee.org/abstract/document/8462779)</b> <br> 
+<b>Zhenghua Chen</b>, Chaoyang Jiang, Lihua Xie
+<i>IEEE Transactions on Industrial Informatics</i>, 15, no. 5 (2019): 2691 - 2699.
 
 <b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
 Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu.
