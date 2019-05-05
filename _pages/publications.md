@@ -89,17 +89,30 @@ Jie Ding, Changyun Wen, Guoqi Li, <b>Zhenghua Chen</b>,<br>
 
 ## Conference Publications
 
-<b>[Deep Reinforcement Learning for Green Security Games with Real-Time Information](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
-Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa, Fei Fang.
-<i>The Thirty-Third AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2019</b>.
+1. <b>[A Deep Learning Approach for Sleep-Wake Detection from HRV and Accelerometer Data]</b><br>
+<b>Zhenghua Chen</b>, Min Wu, Jiyan Wu, Jie Ding, Zeng Zeng, Karl Surmacz, Xiaoli Li,<br>
+<i>IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)</i>, 2019.
 
-<b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
-<b>Lantao Yu\*</b>, Yaodong Yang\*, Yiwei Bai\*, Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
+1. <b>[Indoor localization using smartphone sensors and ibeacons]</b><br>
+<b>Zhenghua Chen</b>, Qingchang Zhu, Hao Jiang, Yeng Chai Soh,<br>
+<i>Industrial Electronics and Applications (ICIEA), 2015 IEEE 10th Conference on</i>, pp. 1723-1728. IEEE, 2015.
 
-<b>[Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching](http://lantaoyu.com/publications/COMPASS18)</b><br>
-Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.
+1. <b>[Modeling building occupancy using a novel inhomogeneous Markov chain approach]</b><br>
+<b>Zhenghua Chen</b>, Yeng Chai Soh,<br>
+<i>Automation Science and Engineering (CASE), 2014 IEEE International Conference on</i>, pp. 1079-1084. IEEE, 2014.
 
-<b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b><br>
-<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
+1. <b>[Building occupancy detection from carbon-dioxide and motion sensors]</b><br>
+Chaoyang Jiang, <b>Zhenghua Chen</b>, Lih Chieh Png, Korkut Bekiroglu, Seshadhri Srinivasan, Rong Su,<br> 
+<i>Control, Automation, Robotics and Vision (ICARCV), 2018 IEEE International Conference on</i>, 2018.
 
-[\* denotes equal contribution]
+1. <b>[Accurate Indoor Localization and Tracking Using Mobile Phone Inertial Sensor, WiFi and iBeacon]</b><br>
+Han Zou, <b>Zhenghua Chen</b>, Hao Jiang, Lihua Xie, Costas Spanos,<br> 
+<i>Inertial Sensors and Systems (INERTIAL), 2017 IEEE International Symposium on</i>, pp. 1-4. IEEE, 2017.
+
+1. <b>[Using unlabeled acoustic data with locality-constrained linear coding for energy-related activity recognition in buildings]</b><br>
+Qingchang Zhu, <b>Zhenghua Chen</b>, Yeng Chai Soh,<br> 
+<i>Automation Science and Engineering (CASE), 2015 IEEE International Conference on</i>, pp. 174-179. IEEE, 2015.
+
+1. <b>[Smartphone-based Human Activity Recognition in buildings using Locality-constrained Linear Coding]</b><br>
+Qingchang Zhu, <b>Zhenghua Chen</b>, Yeng Chai Soh,<br> 
+<i>Industrial Electronics and Applications (ICIEA), 2015 IEEE 10th Conference on</i>, pp. 214-219. IEEE, 2015.
