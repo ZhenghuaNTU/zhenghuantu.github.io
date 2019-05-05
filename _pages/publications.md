@@ -9,7 +9,7 @@ author_profile: true
 <b>Zhenghua Chen</b>, Chaoyang Jiang, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> in book
 <b>Deep Learning: Algorithms and Applications</b>, <i>Springer</i> to be published in 2019.
 
-2. <b>Deep Learning based Human Activity Recognition for Healthcare Services</b> <br> 
+1. <b>Deep Learning based Human Activity Recognition for Healthcare Services</b> <br> 
 <b>Zhenghua Chen</b>, Le Zhang, Min Wu, Xiaoli Li,<br> in book
 <b>Deep Learning for Biomedical Data Analysis: Techniques, Approaches and Applications</b>, <i>Springer</i> to be published in 2020.
 
