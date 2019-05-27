@@ -15,6 +15,10 @@ author_profile: true
 
 ## Journal Publications
 
+1. <b>[WiFi Fingerprinting Indoor Localization Using Local Feature-based Deep LSTM](https://ieeexplore.ieee.org/abstract/document/8658116)</b> <br> 
+<b>Zhenghua Chen</b>, Han Zou, JianFei Yang, Hao Jiang, Lihua Xie,<br>
+<i>IEEE Systems Journal</i>, 2019.
+
 1. <b>[Group Greedy Method for Sensor Placement](https://ieeexplore.ieee.org/abstract/document/8658116)</b> <br> 
 Chaoyang Jiang, <b>Zhenghua Chen*</b>, Rong Su, Yeng Chai Soh,<br>
 <i>IEEE Transactions on Signal Processing</i>, 2019. (<b>*Corresponding Author</b>)
