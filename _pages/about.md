@@ -16,5 +16,6 @@ redirect_from:
 
 
 # Recent News
+* One paper entitled "WiFi Fingerprinting Indoor Localization Using Local Feature-based Deep LSTM" has been accepted by <b>IEEE Systems Journal </b>.
 * Call for Journal Paper: We are orgnizing a special issue at [Elsevier Neurocomputing](https://www.journals.elsevier.com/neurocomputing) (IF: 3.241), [Special Issue on Deep Learning for Human Activity Recognition](https://www.journals.elsevier.com/neurocomputing/call-for-papers/special-issue-on-deep-learning-for-human-activity-recognitio). <b> The submission deadline is September 1, 2019.</b>
 * Call for Top AI Workshop Paper: We are orgnizing a workshop at [IJCAI](https://ijcai19.org/) 2019, named "Deep Learning for Human Activity Recognition". <b>The submission deadline is May 9, 2019.</b>
