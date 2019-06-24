@@ -15,7 +15,7 @@ author_profile: true
 
 ## Journal Publications
 
-1. <b>[WiFi Fingerprinting Indoor Localization Using Local Feature-based Deep LSTM](https://ieeexplore.ieee.org/abstract/document/8658116)</b> <br> 
+1. <b>[WiFi Fingerprinting Indoor Localization Using Local Feature-based Deep LSTM](https://ieeexplore.ieee.org/document/8733822)</b> <br> 
 <b>Zhenghua Chen</b>, Han Zou, JianFei Yang, Hao Jiang, Lihua Xie,<br>
 <i>IEEE Systems Journal</i>, 2019.
 
