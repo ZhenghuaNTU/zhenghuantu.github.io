@@ -15,6 +15,10 @@ author_profile: true
 
 ## Journal Publications
 
+1. <b>[Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks](https://ieeexplore.ieee.org/document/8798996)</b> <br> 
+<b>Zhenghua Chen</b>, Yanbing Yang, Chaoyang Jiang, Jie Hao and Le Zhang,<br>
+<i>IEEE Transactions on Industrial Electronics</i>, 2019.
+
 1. <b>[WiFi Fingerprinting Indoor Localization Using Local Feature-based Deep LSTM](https://ieeexplore.ieee.org/document/8733822)</b> <br> 
 <b>Zhenghua Chen</b>, Han Zou, JianFei Yang, Hao Jiang, Lihua Xie,<br>
 <i>IEEE Systems Journal</i>, 2019.
