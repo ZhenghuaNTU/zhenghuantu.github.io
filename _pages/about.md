@@ -16,6 +16,8 @@ redirect_from:
 
 
 # Recent News
+* One paper entitled "Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori" has been accepted by <b>IEEE Transactions on Instrumentation and Measurement</b>.
+* Our paper entitled "Deep Learning Approach for Sleep-Wake Detection from HRV and Accelerometer Data" has been reported on <b>A*STAR Research Highlights</b> [link](https://research.a-star.edu.sg/articles/highlights/going-deep-into-the-science-of-sleep/).
 * One paper entitled "Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks" has been accepted by <b>IEEE Transactions on Industrial Electronics </b>.
 * One paper entitled "WiFi Fingerprinting Indoor Localization Using Local Feature-based Deep LSTM" has been accepted by <b>IEEE Systems Journal </b>.
 * Call for Journal Paper: We are orgnizing a special issue at [Elsevier Neurocomputing](https://www.journals.elsevier.com/neurocomputing) (IF: 3.241), [Special Issue on Deep Learning for Human Activity Recognition](https://www.journals.elsevier.com/neurocomputing/call-for-papers/special-issue-on-deep-learning-for-human-activity-recognitio). <b> The submission deadline is September 1, 2019.</b>
