@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Scientist at [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (A*STAR), Singapore.
+* I am currently a Scientist (<b>PhD advisor</b>) at [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (A*STAR), Singapore.
 
 * I obtained my Bachelor’s Degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) at 2011 and PhD's Degree from [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx) at 2017 under the supervision of Prof. [Yeng Chai Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EYCSOH). After graduation, I have been working at NTU as a Research Fellow under the supervision of IEEE Fellow, IFAC Fellow, Prof. [Lihua Xie](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=elhxie).
 
@@ -17,7 +17,7 @@ redirect_from:
 
 # Recent News
 * I was invited to serve as a Track Chair, Industrial Informatics and Computational Intelligence, in [IEEE ICIEA 2020](http://www.ieeeiciea.org/2020/) and [IEEE IECON 2020](https://www.iecon2020.org/). 
-* One book chapter entitled "[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)" has been published In Book 'Deep Learning: Algorithms and Applications', Springer, Cham, 2020
+* One book chapter entitled "[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)" has been published In Book <b>'Deep Learning: Algorithms and Applications'</b>, Springer, Cham, 2020
 * One paper entitled "Bayesian filtering for building occupancy estimation from carbon dioxide concentration" has been accepted by <b>Energy and Buildings</b>.
 * One paper entitled "[Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori](https://ieeexplore.ieee.org/document/8856227)" has been accepted by <b>IEEE Transactions on Instrumentation and Measurement</b>.
 * Our paper entitled "Deep Learning Approach for Sleep-Wake Detection from HRV and Accelerometer Data" has been reported on <b>A*STAR Research Highlights</b> [link](https://research.a-star.edu.sg/articles/highlights/going-deep-into-the-science-of-sleep/).
