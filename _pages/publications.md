@@ -5,15 +5,19 @@ author_profile: true
 ---
 
 ## Book Chapter
-1. <b>Deep Learning for Building Occupancy Estimation Using Environmental Sensors</b> <br> 
-<b>Zhenghua Chen</b>, Chaoyang Jiang, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> in book
-"Deep Learning: Algorithms and Applications", <i>Springer</i>, to be published in 2019.
+1. <b>[Deep Learning for Building Occupancy Estimation Using Environmental Sensors]()</b> <br> 
+<b>Zhenghua Chen</b>, Chaoyang Jiang, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> In
+"Deep Learning: Algorithms and Applications", pp. 335-357. <i>Springer</i>, Cham, 2020.
 
 1. <b>Deep Learning based Human Activity Recognition for Healthcare Services</b> <br> 
 <b>Zhenghua Chen</b>, Le Zhang, Min Wu, Xiaoli Li,<br> in book
 "Deep Learning for Biomedical Data Analysis: Techniques, Approaches and Applications", <i>Springer</i>, to be published in 2020.
 
 ## Journal Publications
+
+1. <b>[Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori](https://ieeexplore.ieee.org/document/8856227)</b> <br> 
+<b>Zhenghua Chen</b>, Chaoyang Jiang, Shili Xiang, Jie Ding, Min Wu, and Xiaoli Li,<br>
+<i>IEEE Transactions on Instrumentation and Measurement</i>, 2019.
 
 1. <b>[Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks](https://ieeexplore.ieee.org/document/8798996)</b> <br> 
 <b>Zhenghua Chen</b>, Yanbing Yang, Chaoyang Jiang, Jie Hao and Le Zhang,<br>
