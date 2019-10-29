@@ -17,7 +17,7 @@ redirect_from:
 
 # Recent News
 * I was invited to serve as a Track Chair, Industrial Informatics and Computational Intelligence, in [IEEE ICIEA 2020](http://www.ieeeiciea.org/2020/) and [IEEE IECON 2020](https://www.iecon2020.org/). 
-* One book chapter entitled "[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)" has been published In Book 'Deep Learning: Algorithms and Applications', Springer, Chem, 2020
+* One book chapter entitled "[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)" has been published In Book 'Deep Learning: Algorithms and Applications', Springer, Cham, 2020
 * One paper entitled "Bayesian filtering for building occupancy estimation from carbon dioxide concentration" has been accepted by <b>Energy and Buildings</b>.
 * One paper entitled "[Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori](https://ieeexplore.ieee.org/document/8856227)" has been accepted by <b>IEEE Transactions on Instrumentation and Measurement</b>.
 * Our paper entitled "Deep Learning Approach for Sleep-Wake Detection from HRV and Accelerometer Data" has been reported on <b>A*STAR Research Highlights</b> [link](https://research.a-star.edu.sg/articles/highlights/going-deep-into-the-science-of-sleep/).
