@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* Two scholarships, i.e., [ACIS scholarship](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/A-STAR-CIS-Scholarship) and [SINGA](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/Singapore-International-Graduate-Award-SINGA), have been released in A*STAR collabrated with Singapore universities (NTU, NUS, SMU and SUTD). If you are interested, please contact me directly. 
 * I was invited to serve as a Track Chair, Industrial Informatics and Computational Intelligence, in [IEEE ICIEA 2020](http://www.ieeeiciea.org/2020/) and [IEEE IECON 2020](https://www.iecon2020.org/). 
 * One book chapter entitled "[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)" has been published In Book <b>'Deep Learning: Algorithms and Applications'</b>, Springer, Cham, 2020
 * One paper entitled "Bayesian filtering for building occupancy estimation from carbon dioxide concentration" has been accepted by <b>Energy and Buildings</b>.
