@@ -8,11 +8,11 @@ author_profile: true
 1. <b>[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)</b> <br> 
 <b>Zhenghua Chen</b>, Chaoyang Jiang, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> In
 "Deep Learning: Algorithms and Applications", pp. 335-357. <i>Springer</i>, Cham, 2020.
----
+
 1. <b>Deep Learning based Human Activity Recognition for Healthcare Services</b> <br> 
 <b>Zhenghua Chen</b>, Le Zhang, Min Wu, Xiaoli Li,<br> in book
 "Deep Learning for Biomedical Data Analysis: Techniques, Approaches and Applications", <i>Springer</i>, to be published in 2020.
----
+
 ## Journal Publications
 
 1. <b>[Bayesian filtering for building occupancy estimation from carbon dioxide concentration](https://www.sciencedirect.com/science/article/pii/S0378778819312721)</b> <br> 
