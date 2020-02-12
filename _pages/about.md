@@ -16,6 +16,9 @@ redirect_from:
 
 
 # Recent News
+* One paper entitled "MobileDA: Towards Edge Domain Adaptation" has been accepted by <b>IEEE Internet of Things Journal</b>.
+* One paper entitled "Machine Remaining Useful Life Prediction via an Attention Based Deep Learning Approach" has been accepted by <b>IEEE Transactions on Industrial Electronics</b>.
+* One paper entitled "Using Reinforcement Learning to Minimize the Probability of Delay Occurrence in Transportation" has been accepted by <b>IEEE Transactions on Vehicular Technology</b>.
 * I was invited to serve as PC for [IJCAI2020](https://ijcai20.org/).
 * <b>Two PhD scholarships</b>, i.e., [ACIS scholarship](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/A-STAR-CIS-Scholarship) and [SINGA](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/Singapore-International-Graduate-Award-SINGA), have been released in A*STAR collabrated with Singapore universities (NTU, NUS, SMU and SUTD). If you are interested, please contact me directly. 
 * I was invited to serve as a Track Chair, Industrial Informatics and Computational Intelligence, in [IEEE ICIEA 2020](http://www.ieeeiciea.org/2020/) and [IEEE IECON 2020](https://www.iecon2020.org/). 
