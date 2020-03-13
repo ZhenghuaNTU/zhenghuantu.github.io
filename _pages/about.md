@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* Call for Top AI Workshop Paper: We are orgnizing a workshop at [IJCAI](https://ijcai20.org/) 2020, named "[2ND International Workshop on Deep Learning for Human Activity Recognition](https://keyplay.github.io/ijcai2020workshop/)". <b>The submission deadline is May 1, 2020.</b>
 * One paper entitled "MobileDA: Towards Edge Domain Adaptation" has been accepted by <b>IEEE Internet of Things Journal</b>.
 * One paper entitled "Machine Remaining Useful Life Prediction via an Attention Based Deep Learning Approach" has been accepted by <b>IEEE Transactions on Industrial Electronics</b>.
 * One paper entitled "Using Reinforcement Learning to Minimize the Probability of Delay Occurrence in Transportation" has been accepted by <b>IEEE Transactions on Vehicular Technology</b>.
