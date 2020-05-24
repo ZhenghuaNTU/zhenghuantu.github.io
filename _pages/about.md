@@ -12,11 +12,11 @@ redirect_from:
 
 * I obtained my Bachelor’s Degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) at 2011 and PhD's Degree from [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx) at 2017 under the supervision of Prof. [Yeng Chai Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EYCSOH). After graduation, I have been working at NTU as a Research Fellow under the supervision of IEEE Fellow, IFAC Fellow, Prof. [Lihua Xie](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=elhxie).
 
-* My research interest is data analytics for intelligent occupant sensing, machine learning, deep learning, transfer learning and related applications.
+* My research interest is sensory data analytics, machine learning, deep learning, transfer learning and related applications.
 
 
 # Recent News
-* Call for Top AI Workshop Paper: We are orgnizing a workshop at [IJCAI](https://ijcai20.org/) 2020, named "[2ND International Workshop on Deep Learning for Human Activity Recognition](https://keyplay.github.io/ijcai2020workshop/)". <b>The submission deadline is May 1, 2020.</b>
+* Call for Top AI Workshop Paper: We are orgnizing a workshop at [IJCAI](https://ijcai20.org/) 2020, named "[2ND International Workshop on Deep Learning for Human Activity Recognition](https://keyplay.github.io/ijcai2020workshop/)". ~~<b>The submission deadline is May 1, 2020.</b>~~
 * One paper entitled "MobileDA: Towards Edge Domain Adaptation" has been accepted by <b>IEEE Internet of Things Journal</b>.
 * One paper entitled "Machine Remaining Useful Life Prediction via an Attention Based Deep Learning Approach" has been accepted by <b>IEEE Transactions on Industrial Electronics</b>.
 * One paper entitled "Using Reinforcement Learning to Minimize the Probability of Delay Occurrence in Transportation" has been accepted by <b>IEEE Transactions on Vehicular Technology</b>.
