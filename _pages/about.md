@@ -16,7 +16,7 @@ redirect_from:
 
 
 # Recent News
-
+* Call for Journal Paper: We are orgnizing a special issue at [Journal of Healthcare Engineering](https://www.hindawi.com/journals/jhe/) (IF: 1.295), [Special Issue on Monitoring of Human Vital Signs and its Applications in Healthcare](https://www.hindawi.com/journals/jhe/si/470853/). <b> The submission deadline is September 25, 2020.</b>
 * One paper entitled "A Novel Ensemble Deep Learning Approach for Sleep-Wake Detection Using Heart Rate Variability and Acceleration" has been accepted by <b>IEEE Transactions on Emerging Topics in Computational Intelligence</b>.
 * One paper entitled "A Novel Real-Time Deep Learning Approach for Indoor Localization Based on RF Environment Identification" has been accepted by <b>IEEE Sensors Letter</b>.
 * One paper entitled "WiFi-Based Indoor Robot Positioning Using Deep Fuzzy Forests" has been accepted by <b>IEEE Internet of Things Journal</b>.
