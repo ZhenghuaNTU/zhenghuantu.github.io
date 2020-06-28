@@ -16,7 +16,10 @@ redirect_from:
 
 
 # Recent News
+* Our paper entitled "dversarial Transfer Learning for Machine Remaining Useful Life Prediction" has won [IEEE International Conference on Prognostics and Health Management (ICPHM) 2020](http://www.phmconf.org/) <b>Finalist Academic Paper Award</b>
+* Call for Paper: We are orgnizing an invited session on [IEEE ICARCV 2020](https://www.icarcv.sg/), "Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking". <b> Submission Code: jvw28.</b> Looking forward to your submissions!
 * Call for Journal Paper: We are orgnizing a special issue at [Journal of Healthcare Engineering](https://www.hindawi.com/journals/jhe/) (IF: 1.295), [Special Issue on Monitoring of Human Vital Signs and its Applications in Healthcare](https://www.hindawi.com/journals/jhe/si/470853/). <b> The submission deadline is September 25, 2020.</b>
+* One paper entitled "An Attention Based CNN-LSTM Approach for Sleep-Wake Detection with Heterogeneous Sensors" has been accepted by <b>IEEE Journal of Biomedical and Health Informatics</b>.
 * One paper entitled "A Novel Ensemble Deep Learning Approach for Sleep-Wake Detection Using Heart Rate Variability and Acceleration" has been accepted by <b>IEEE Transactions on Emerging Topics in Computational Intelligence</b>.
 * One paper entitled "A Novel Real-Time Deep Learning Approach for Indoor Localization Based on RF Environment Identification" has been accepted by <b>IEEE Sensors Letter</b>.
 * One paper entitled "WiFi-Based Indoor Robot Positioning Using Deep Fuzzy Forests" has been accepted by <b>IEEE Internet of Things Journal</b>.
