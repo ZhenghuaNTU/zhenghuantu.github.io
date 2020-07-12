@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* <font color="red"><b>Call for Paper</b></font>: We are orgnizing a special issue at [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci), [Special Issue on Computational Intelligence for IoT-based Human Activity Recognition](https://cis.ieee.org/publications/t-emerging-topics-in-ci/tetci-special-issues). <b> The submission deadline is October 31, 2020.</b>
 * Our paper entitled "adversarial Transfer Learning for Machine Remaining Useful Life Prediction" has won [IEEE International Conference on Prognostics and Health Management (ICPHM) 2020](http://www.phmconf.org/) <b>Finalist Academic Paper Award</b>
 * <font color="red"><b>Call for Paper</b></font>: We are orgnizing an invited session on [IEEE ICARCV 2020](https://www.icarcv.sg/), "Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking". <b> Submission Code: jvw28.</b> Looking forward to your submissions!
 * <font color="red"><b>Call for Paper</b></font>: We are orgnizing a special issue at [Journal of Healthcare Engineering](https://www.hindawi.com/journals/jhe/) (IF: 1.295), [Special Issue on Monitoring of Human Vital Signs and its Applications in Healthcare](https://www.hindawi.com/journals/jhe/si/470853/). <b> The submission deadline is September 25, 2020.</b>
