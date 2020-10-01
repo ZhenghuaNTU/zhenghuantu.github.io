@@ -5,21 +5,26 @@ permalink: /professional/
 author_profile: true
 ---
 * **Guest Editor**
+  * [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/images/files/Publications/TETCI/SI18_CFP_IoT_HAR.pdf) 
   * [Elsevier Neurocomputing](https://www.journals.elsevier.com/neurocomputing) (IF: 4.072)
   * [Journal of Healthcare Engineering](https://www.hindawi.com/journals/jhe/) (IF: 1.295)
 * **Track Chair**, [IEEE ICIEA 2020](http://www.ieeeiciea.org/2020/) and [IEEE IECON 2020](https://www.iecon2020.org/)
-* **Conference PC**, [IJCAI2020](https://ijcai20.org/) and [IEEE OGC 2020](http://www.ipsogc.org/)
+* **Conference PC**, AAAI 2021, IJCAI 2021, IJCAI2020 and [IEEE OGC 2020](http://www.ipsogc.org/)
 * **Top AI Conference Workshop Organizer**, 
-  * [IJCAI2019](https://ijcai19.org/), 1st International Workshop on "Deep Learning for Human Activity Recognition".
-  * [IJCAI2020](https://ijcai20.org/), 2nd International Workshop on "Deep Learning for Human Activity Recognition".
+  * [IJCAI 2019](https://ijcai19.org/), 1st International Workshop on "Deep Learning for Human Activity Recognition".
+  * [IJCAI 2020](https://ijcai20.org/), 2nd International Workshop on "Deep Learning for Human Activity Recognition".
+  * [IEEE ICARCV 2020](https://www.icarcv.sg/), Invited Session on "Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking".
 * **Journal Invited Reviewer:**
   * IEEE Transactions on Industrial Electronics
   * IEEE Transactions on Industrial Informatics
+  * IEEE Transactions on Mobile Computing
   * IEEE Transactions on Smart Grid
   * IEEE Transactions on Automation Science and Engineering
   * IEEE Transactions on Mechatronics
   * IEEE Transactions on Emerging Topics in Computational Intelligence
+  * IEEE Transactions on Systems, Man, and Cybernetics: Systems
   * Transactions on Neural Systems & Rehabilitation Engineering 
+  * IEEE Wireless Communication
   * IEEE Internet of Things Journal
   * IEEE Journal of Biomedical and Health Informatics
   * IEEE Systems Journal
