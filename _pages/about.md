@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* <font color="blue">We are hiring Research Engineer and Scientist at A*STAR Singapore, working on deep learning, transfer learning and related applications. If you are interested, please contact me directly.</font>:
 * <font color="red"><b>Call for Paper</b></font>: We are orgnizing a special issue at [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci), [Special Issue on Computational Intelligence for IoT-based Human Activity Recognition](https://cis.ieee.org/publications/t-emerging-topics-in-ci/tetci-special-issues). <b> The submission deadline is October 31, 2020.</b>
 * Our paper entitled "adversarial Transfer Learning for Machine Remaining Useful Life Prediction" has won [IEEE International Conference on Prognostics and Health Management (ICPHM) 2020](http://www.phmconf.org/) <b>Finalist Academic Paper Award</b>
 * <font color="red"><b>Call for Paper</b></font>: We are orgnizing an invited session on [IEEE ICARCV 2020](https://www.icarcv.sg/), "Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking". <b> Submission Code: jvw28.</b> Looking forward to your submissions!
