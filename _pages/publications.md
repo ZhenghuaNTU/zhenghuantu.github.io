@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Book & Book Chapter
-1. <b>Generalization with Deep Learning: for improvement on Sensing Capability</b> <br><b>Zhenghua Chen</b>, Min Wu, and Xiaoli Li, <br><i>{World Scientific<i>, 2020, In press.
+1. <b>Generalization with Deep Learning: for improvement on Sensing Capability</b> <br><b>Zhenghua Chen</b>, Min Wu, and Xiaoli Li, <br><i>World Scientific<i>, 2020, In press.
 1. <b>[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)</b> <br> 
 <b>Zhenghua Chen</b>, Chaoyang Jiang, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> In
 "Deep Learning: Algorithms and Applications", pp. 335-357. <i>Springer</i>, Cham, 2020.
