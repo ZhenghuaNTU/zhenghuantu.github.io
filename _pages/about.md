@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a <b>Scientist</b> (<b>PhD advisor</b>) at [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (A*STAR), Singapore, and a <b>Part-time Lecture</b> at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx).
+* I am currently a <b>Scientist</b> (<b>PI, PhD advisor</b>) at [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (A*STAR), Singapore, and a <b>Part-time Lecture</b> at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx).
 
 * I obtained my Bachelor’s Degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) at 2011 and PhD's Degree from [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx) at 2017 under the supervision of Prof. [Yeng Chai Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EYCSOH). After graduation, I have been working at NTU as a Research Fellow under the supervision of IEEE Fellow, IFAC Fellow, Prof. [Lihua Xie](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=elhxie).
 
@@ -16,16 +16,20 @@ redirect_from:
 
 
 # Recent News
-* <font color="blue">We are hiring Research Engineer and Scientist at A*STAR Singapore, working on deep learning, transfer learning and related applications. If you are interested, please contact me directly.</font>
-* <font color="red"><b>Call for Paper</b></font>: We are orgnizing a special issue at [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci), [Special Issue on Computational Intelligence for IoT-based Human Activity Recognition](https://cis.ieee.org/publications/t-emerging-topics-in-ci/tetci-special-issues). <b> The submission deadline is October 31, 2020.</b>
+* Our team AStarTrek has won first runner-up award (2nd place) for the [grand challenge at VCIP 2020](http://www.vcip2020.org/grand_challenge.htm).
+* Our paper entitled "Two-Stream Convolution Augmented Transformer for Human Activity Recognition" has been accepted by <b>AAAI 2021</b>.
+* I was invited to serve as PC for [IJCAI2021](https://ijcai-21.org/) and [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
+* I was invited to serve as Track Chair for [ICIEA 2021](http://www.ieeeiciea.org/2021/): Track on Artifical Intelligence.
+* <font color="red"><b>Call for Paper</b></font>: We are orgnizing a special session at [IEEE Conference on Industrial Electronics and Applications (ICIEA 2021)](http://www.ieeeiciea.org/2021/), "Artificial Intelligence for Industrial Internet of Things (IIoT)". <b> The submission deadline is Dec 31, 2020 (will be extended).</b>
+* <font color="red"><b>Call for Paper</b></font>: We are orgnizing a special issue at [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci), [Special Issue on Computational Intelligence for IoT-based Human Activity Recognition](https://cis.ieee.org/publications/t-emerging-topics-in-ci/tetci-special-issues). <b> The submission deadline is Jan 31, 2021.</b>
 * Our paper entitled "adversarial Transfer Learning for Machine Remaining Useful Life Prediction" has won [IEEE International Conference on Prognostics and Health Management (ICPHM) 2020](http://www.phmconf.org/) <b>Finalist Academic Paper Award</b>
-* <font color="red"><b>Call for Paper</b></font>: We are orgnizing an invited session on [IEEE ICARCV 2020](https://www.icarcv.sg/), "Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking". <b> Submission Code: jvw28.</b> Looking forward to your submissions!
+* We are orgnizing an invited session on [IEEE ICARCV 2020](https://www.icarcv.sg/), "Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking". <b> Submission Code: jvw28.</b> Looking forward to your submissions!
 * <font color="red"><b>Call for Paper</b></font>: We are orgnizing a special issue at [Journal of Healthcare Engineering](https://www.hindawi.com/journals/jhe/) (IF: 1.295), [Special Issue on Monitoring of Human Vital Signs and its Applications in Healthcare](https://www.hindawi.com/journals/jhe/si/470853/). <b> The submission deadline is September 25, 2020.</b>
 * One paper entitled "An Attention Based CNN-LSTM Approach for Sleep-Wake Detection with Heterogeneous Sensors" has been accepted by <b>IEEE Journal of Biomedical and Health Informatics</b>.
 * One paper entitled "A Novel Ensemble Deep Learning Approach for Sleep-Wake Detection Using Heart Rate Variability and Acceleration" has been accepted by <b>IEEE Transactions on Emerging Topics in Computational Intelligence</b>.
 * One paper entitled "A Novel Real-Time Deep Learning Approach for Indoor Localization Based on RF Environment Identification" has been accepted by <b>IEEE Sensors Letter</b>.
 * One paper entitled "WiFi-Based Indoor Robot Positioning Using Deep Fuzzy Forests" has been accepted by <b>IEEE Internet of Things Journal</b>.
-* <font color="red"><b>Call for Paper</b></font>: We are orgnizing a workshop at [IJCAI](https://ijcai20.org/) 2020, named "[2ND International Workshop on Deep Learning for Human Activity Recognition](https://keyplay.github.io/ijcai2020workshop/)". ~~<b>The submission deadline is May 1, 2020.</b>~~ <b>Due to COVID 19, the main conference has been extended to Jan 2021. We also extend this workshop to 15 September 2020 to give more time for authors. Thanks!</b>
+* We are orgnizing a workshop at [IJCAI](https://ijcai20.org/) 2020, named "[2ND International Workshop on Deep Learning for Human Activity Recognition](https://keyplay.github.io/ijcai2020workshop/)". ~~<b>The submission deadline is May 1, 2020.</b>~~ <b>Due to COVID 19, the main conference has been extended to Jan 2021. We also extend this workshop to 15 September 2020 to give more time for authors. Thanks!</b>
 * One paper entitled "MobileDA: Towards Edge Domain Adaptation" has been accepted by <b>IEEE Internet of Things Journal</b>.
 * One paper entitled "Machine Remaining Useful Life Prediction via an Attention Based Deep Learning Approach" has been accepted by <b>IEEE Transactions on Industrial Electronics</b>.
 * One paper entitled "Using Reinforcement Learning to Minimize the Probability of Delay Occurrence in Transportation" has been accepted by <b>IEEE Transactions on Vehicular Technology</b>.
