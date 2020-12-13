@@ -16,7 +16,7 @@ redirect_from:
 
 
 # Recent News
-* I am homored to be recognised as <b>the World's Top 2% Scientists</b>. It is compiled by Stanford University based on the standardized citation indicators, which was publised in [PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918) and also avaiable online at [Mendeley Database](https://data.mendeley.com/datasets/btchxktzyw/2).
+* I am homored to be recognised as <b>the World's Top 2% Scientists</b>. It is compiled by Stanford University based on the standardized citation indicators (Table-S7-singleyr-2019), which was published in [PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918) and also avaiable online at [Mendeley Database](https://data.mendeley.com/datasets/btchxktzyw/2).
 * Our team AStarTrek has won first runner-up award (2nd place) for the [Grand Challenge at VCIP 2020](http://www.vcip2020.org/grand_challenge.htm).
 * Our paper entitled "Two-Stream Convolution Augmented Transformer for Human Activity Recognition" has been accepted by <b>AAAI 2021</b>.
 * I was invited to serve as PC for [IJCAI2021](https://ijcai-21.org/) and [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
