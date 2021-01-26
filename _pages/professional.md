@@ -4,10 +4,11 @@ title: "Professional Activities"
 permalink: /professional/
 author_profile: true
 ---
-* **Guest Editor**
-  * [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/images/files/Publications/TETCI/SI18_CFP_IoT_HAR.pdf) 
-  * [Elsevier Neurocomputing](https://www.journals.elsevier.com/neurocomputing) (IF: 4.072)
-  * [Journal of Healthcare Engineering](https://www.hindawi.com/journals/jhe/) (IF: 1.295)
+* **Editorial Borad**
+  * [Elsivier Neurocomputing](https://www.journals.elsevier.com/neurocomputing), 2021 - present, Associate Editor
+  * [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/images/files/Publications/TETCI/SI18_CFP_IoT_HAR.pdf), 2020, Guest Editor
+  * [Elsevier Neurocomputing](https://www.journals.elsevier.com/neurocomputing), 2019, Guest Editor
+  * [Journal of Healthcare Engineering](https://www.hindawi.com/journals/jhe/), 2020, Guest Editor
 * **Track Chair**, [IEEE ICIEA 2021](http://www.ieeeiciea.org/2021/), [IEEE ICIEA 2020](http://www.ieeeiciea.org/2020/) and [IEEE IECON 2020](https://www.iecon2020.org/)
 * **Conference PC**, AAAI 2021, IJCAI 2021, IJCAI2020 and [IEEE OGC 2020](http://www.ipsogc.org/)
 * **Top AI Conference Workshop Organizer**, 
