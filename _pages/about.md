@@ -19,7 +19,7 @@ redirect_from:
 * I am serving as the Associate Editor for Elsivier [Neurocomputing](https://www.journals.elsevier.com/neurocomputing).
 * I am homored to be recognised as <b>the World's Top 2% Scientists</b>. It is compiled by Stanford University based on the standardized citation indicators (Table-S7-singleyr-2019), which was published in [PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918) and also avaiable online at [Mendeley Database](https://data.mendeley.com/datasets/btchxktzyw/2).
 * Our team AStarTrek has won <b>First Runner-up Award</b> (2nd place) for the [Grand Challenge at VCIP 2020](http://www.vcip2020.org/grand_challenge.htm).
-* Our paper entitled "Two-Stream Convolution Augmented Transformer for Human Activity Recognition" has been accepted by <b>AAAI 2021</b>.
+* Our paper entitled "Two-Stream Convolution Augmented Transformer for Human Activity Recognition" has been accepted by <b>AAAI 2021</b>, Code is available [here](https://github.com/windofshadow/THAT).
 * I was invited to serve as <b>PC</b> for [IJCAI2021](https://ijcai-21.org/) and [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 * I was invited to serve as <b>Track Chair</b> for [ICIEA 2021](http://www.ieeeiciea.org/2021/): Track on Artifical Intelligence.
 * <font color="red"><b>Call for Paper</b></font>: We are orgnizing a special session at [IEEE Conference on Industrial Electronics and Applications (ICIEA 2021)](http://www.ieeeiciea.org/2021/), "Artificial Intelligence for Industrial Internet of Things (IIoT)". <b> The submission deadline is Dec 31, 2020 (will be extended).</b>
@@ -33,7 +33,7 @@ redirect_from:
 * One paper entitled "WiFi-Based Indoor Robot Positioning Using Deep Fuzzy Forests" has been accepted by <b>IEEE Internet of Things Journal</b>.
 * We are orgnizing a workshop at [IJCAI](https://ijcai20.org/) 2020, named "[2ND International Workshop on Deep Learning for Human Activity Recognition](https://keyplay.github.io/ijcai2020workshop/)". ~~<b>The submission deadline is May 1, 2020.</b>~~ <b>Due to COVID 19, the main conference has been extended to Jan 2021. We also extend this workshop to 15 September 2020 to give more time for authors. Thanks!</b>
 * One paper entitled "MobileDA: Towards Edge Domain Adaptation" has been accepted by <b>IEEE Internet of Things Journal</b>.
-* One paper entitled "Machine Remaining Useful Life Prediction via an Attention Based Deep Learning Approach" has been accepted by <b>IEEE Transactions on Industrial Electronics</b>.
+* One paper entitled "Machine Remaining Useful Life Prediction via an Attention Based Deep Learning Approach" has been accepted by <b>IEEE Transactions on Industrial Electronics</b>, code is available [here](https://github.com/ZhenghuaNTU/RUL-prediction-using-attention-based-deep-learning-approach).
 * One paper entitled "Using Reinforcement Learning to Minimize the Probability of Delay Occurrence in Transportation" has been accepted by <b>IEEE Transactions on Vehicular Technology</b>.
 * I was invited to serve as PC for [IJCAI2020](https://ijcai20.org/).
 * <b>Two PhD scholarships</b>, i.e., [ACIS scholarship](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/A-STAR-CIS-Scholarship) and [SINGA](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/Singapore-International-Graduate-Award-SINGA), have been released in A*STAR collabrated with Singapore universities (NTU, NUS, SMU and SUTD). If you are interested, please contact me directly. 
