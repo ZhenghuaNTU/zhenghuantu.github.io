@@ -19,7 +19,7 @@ Mohamed Ragab, <b>Zhenghua Chen*</b>, Min Wu, Haoliang Li, Chee-Keong Kwoh, Ruqi
 
 1. <b>[Machine Remaining Useful Life Prediction via an Attention Based Deep Learning Approach](https://ieeexplore.ieee.org/document/8998569)</b> <br> 
 <b>Zhenghua Chen</b>, Min Wu, Rui Zhao, Feri Guretno, Ruqiang Yan and Xiaoli Li,<br>
-<i>IEEE Transactions on Industrial Electronics</i>, 2020. 
+<i>IEEE Transactions on Industrial Electronics</i>, 2020. code is available [here](https://github.com/ZhenghuaNTU/RUL-prediction-using-attention-based-deep-learning-approach).
 
 1. <b>[Bayesian filtering for building occupancy estimation from carbon dioxide concentration](https://www.sciencedirect.com/science/article/pii/S0378778819312721)</b> <br> 
 Chaoyang Jiang, <b>Zhenghua Chen*</b>, Rong Su, Mustafa Khalid Masood, and Yeng Chai Soh<br>
@@ -110,6 +110,10 @@ Jie Ding, Changyun Wen, Guoqi Li, <b>Zhenghua Chen</b>,<br>
 <i>IEEE Transactions on Cybernetics</i>, (2019).
 
 ## Conference Publications
+
+1. <b>Two-Stream Convolution Augmented Transformer for Human Activity Recognition</b><br>
+Bing Li, Wei Cui, Wei Wang, Le Zhang, <b>Zhenghua Chen</b>, and Min Wu<br>
+<i>AAAI 2021</i>, Code is available [here](https://github.com/windofshadow/THAT).
 
 1. <b>A Deep Learning Approach for Sleep-Wake Detection from HRV and Accelerometer Data</b><br>
 <b>Zhenghua Chen</b>, Min Wu, Jiyan Wu, Jie Ding, Zeng Zeng, Karl Surmacz, Xiaoli Li,<br>
