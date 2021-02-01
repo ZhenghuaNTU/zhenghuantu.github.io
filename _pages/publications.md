@@ -5,13 +5,21 @@ author_profile: true
 ---
 
 ## Book & Book Chapter
-1. <b>Generalization with Deep Learning: for improvement on Sensing Capability</b> <br><b>Zhenghua Chen</b>, Min Wu, and Xiaoli Li, <br><i>World Scientific<i>, 2020, In press.
+1. <b>Generalization with Deep Learning: for improvement on Sensing Capability</b> <br><b>Zhenghua Chen</b>, Min Wu, and Xiaoli Li, <br><i>World Scientific<i>, 2020 March.
 1. <b>[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)</b> <br> 
 <b>Zhenghua Chen</b>, Chaoyang Jiang, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> In
 "Deep Learning: Algorithms and Applications", pp. 335-357. <i>Springer</i>, Cham, 2020.
 
 
 ## Journal Publications
+
+1. <b>KDnet-RUL: A Knowledge Distillation Framework to Compress Deep Neural Networks for Machine Remaining Useful Life Prediction</b> <br> 
+Qing Xu, <b>Zhenghua Chen*</b>, Keyu Wu, Chao Wang, Min Wu, and Xiaoli Li<br>
+<i>IEEE Transactions on Industrial Electronics</i>, 2021. (<b>*Corresponding Author</b>)
+
+1. <b>[Contrastive Adversarial Domain Adaptation for Machine Remaining Useful Life Prediction](https://ieeexplore.ieee.org/document/9234721)</b> <br> 
+Mohamed Ragab, <b>Zhenghua Chen*</b>, Min Wu, Foo Chuan Sheng, Chee-Keong Kwoh, Ruqian Yan, Xiaoli Li<br>
+<i>IEEE Transactions on Industrial Informatics</i>, 2020. (<b>*Corresponding Author</b>)
 
 1. <b>[Adversarial Multiple-Target Domain Adaptation for Fault Classification](https://ieeexplore.ieee.org/abstract/document/9141312)</b> <br> 
 Mohamed Ragab, <b>Zhenghua Chen*</b>, Min Wu, Haoliang Li, Chee-Keong Kwoh, Ruqian Yan, Xiaoli Li<br>
