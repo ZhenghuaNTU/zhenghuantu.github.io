@@ -16,7 +16,7 @@ redirect_from:
 
 
 # Recent News
-* I was promoted as <b>IEEE Senior Member</b>.
+* I have been promoted to <b>IEEE Senior Member</b>.
 * I am serving as the Associate Editor for Elsivier [Neurocomputing](https://www.journals.elsevier.com/neurocomputing).
 * I am homored to be recognised as <b>the World's Top 2% Scientists</b>. It is compiled by Stanford University based on the standardized citation indicators (Table-S7-singleyr-2019), which was published in [PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918) and also avaiable online at [Mendeley Database](https://data.mendeley.com/datasets/btchxktzyw/2).
 * Our team AStarTrek has won <b>First Runner-up Award</b> (2nd place) for the [Grand Challenge at VCIP 2020](http://www.vcip2020.org/grand_challenge.htm).
