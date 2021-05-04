@@ -16,6 +16,9 @@ redirect_from:
 
 
 # Recent News
+* <font color="red"><b>Call for Paper</b></font>: We are orgnizing a workshop at [IJCAI](https://ijcai20.org/) 2020, named "[3RD International Workshop on Deep Learning for Human Activity Recognition](https://keyplay.github.io/ijcai2021_workshop/)". <b>The submission deadline is May 31, 2020.</b>
+* Two papers have been accepted in [IJCAI 2021](https://ijcai-21.org/) (acceptance rate: 13.9%).
+* One paper entitled "[An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG](https://ieeexplore.ieee.org/abstract/document/9417097/)" has been accepted by <b>IEEE Transactions on Neural Systems and Rehabilitation Engineering</b>. 
 * I have been promoted to <b>IEEE Senior Member</b>.
 * I am serving as the Associate Editor for Elsivier [Neurocomputing](https://www.journals.elsevier.com/neurocomputing).
 * I am homored to be recognised as <b>the World's Top 2% Scientists</b>. It is compiled by Stanford University based on the standardized citation indicators (Table-S7-singleyr-2019), which was published in [PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918) and also avaiable online at [Mendeley Database](https://data.mendeley.com/datasets/btchxktzyw/2).
@@ -24,10 +27,10 @@ redirect_from:
 * I was invited to serve as <b>PC</b> for [IJCAI2021](https://ijcai-21.org/) and [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 * I was invited to serve as <b>Track Chair</b> for [ICIEA 2021](http://www.ieeeiciea.org/2021/): Track on Artifical Intelligence.
 * <font color="red"><b>Call for Paper</b></font>: We are orgnizing a special session at [IEEE Conference on Industrial Electronics and Applications (ICIEA 2021)](http://www.ieeeiciea.org/2021/), "Artificial Intelligence for Industrial Internet of Things (IIoT)". <b> The submission deadline is Dec 31, 2020 (will be extended).</b>
-* <font color="red"><b>Call for Paper</b></font>: We are orgnizing a special issue at [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci), [Special Issue on Computational Intelligence for IoT-based Human Activity Recognition](https://cis.ieee.org/publications/t-emerging-topics-in-ci/tetci-special-issues). <b> The submission deadline is Jan 31, 2021.</b>
+* We are orgnizing a special issue at [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci), [Special Issue on Computational Intelligence for IoT-based Human Activity Recognition](https://cis.ieee.org/publications/t-emerging-topics-in-ci/tetci-special-issues). <b> The submission deadline is Jan 31, 2021.</b>
 * Our paper entitled "adversarial Transfer Learning for Machine Remaining Useful Life Prediction" has won [IEEE International Conference on Prognostics and Health Management (ICPHM) 2020](http://www.phmconf.org/) <b>Finalist Academic Paper Award</b>
 * We are orgnizing an invited session on [IEEE ICARCV 2020](https://www.icarcv.sg/), "Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking". <b> Submission Code: jvw28.</b> Looking forward to your submissions!
-* <font color="red"><b>Call for Paper</b></font>: We are orgnizing a special issue at [Journal of Healthcare Engineering](https://www.hindawi.com/journals/jhe/) (IF: 1.295), [Special Issue on Monitoring of Human Vital Signs and its Applications in Healthcare](https://www.hindawi.com/journals/jhe/si/470853/). <b> The submission deadline is September 25, 2020.</b>
+* We are orgnizing a special issue at [Journal of Healthcare Engineering](https://www.hindawi.com/journals/jhe/) (IF: 1.295), [Special Issue on Monitoring of Human Vital Signs and its Applications in Healthcare](https://www.hindawi.com/journals/jhe/si/470853/). <b> The submission deadline is September 25, 2020.</b>
 * One paper entitled "An Attention Based CNN-LSTM Approach for Sleep-Wake Detection with Heterogeneous Sensors" has been accepted by <b>IEEE Journal of Biomedical and Health Informatics</b>.
 * One paper entitled "A Novel Ensemble Deep Learning Approach for Sleep-Wake Detection Using Heart Rate Variability and Acceleration" has been accepted by <b>IEEE Transactions on Emerging Topics in Computational Intelligence</b>.
 * One paper entitled "A Novel Real-Time Deep Learning Approach for Indoor Localization Based on RF Environment Identification" has been accepted by <b>IEEE Sensors Letter</b>.
