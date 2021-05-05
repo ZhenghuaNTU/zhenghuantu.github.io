@@ -14,9 +14,10 @@ author_profile: true
   * IEEE Senior Member
 * **Track Chair**, [IEEE ICIEA 2021](http://www.ieeeiciea.org/2021/), [IEEE ICIEA 2020](http://www.ieeeiciea.org/2020/) and [IEEE IECON 2020](https://www.iecon2020.org/)
 * **Conference PC**, AAAI 2021, IJCAI 2021, IJCAI2020 and [IEEE OGC 2020](http://www.ipsogc.org/)
-* **Top AI Conference Workshop Organizer**, 
+* **Conference Organizer**, 
   * [IJCAI 2019](https://ijcai19.org/), 1st International Workshop on "Deep Learning for Human Activity Recognition".
   * [IJCAI 2020](https://ijcai20.org/), 2nd International Workshop on "Deep Learning for Human Activity Recognition".
+  * [IJCAI 2021](https://ijcai21.org/), 3nd International Workshop on "Deep Learning for Human Activity Recognition".
   * [IEEE ICARCV 2020](https://www.icarcv.sg/), Invited Session on "Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking".
   * [IEEE ICIEA 2021](http://www.ieeeiciea.org/2021/), Special Session on "Artificial Intelligence for Industrial Internet of Things (IIoT)".
 * **Journal Invited Reviewer:**
