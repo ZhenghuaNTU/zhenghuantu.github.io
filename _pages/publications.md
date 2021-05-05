@@ -124,15 +124,15 @@ Jie Ding, Changyun Wen, Guoqi Li, <b>Zhenghua Chen</b>,<br>
 ## Conference Publications
 
 1. <b>Deep Reinforcement Learning Boosted Partial Domain Adaptation</b><br>
-Keyu Wu, Min Wu, Jianfei Yang, <b>Zhenghua Chen*</b>, Zhengguo Li and Xiaoli Li<br>, <i>IJCAI 2021</i> (<b>*Corresponding Author</b>).
+Keyu Wu, Min Wu, Jianfei Yang, <b>Zhenghua Chen*</b>, Zhengguo Li and Xiaoli Li,<br> <b>IJCAI 2021</b> (<b>*Corresponding Author</b>).
 
 1. <b>Time-Series Representation Learning via Temporal and Contextual Contrasting</b><br>
 Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen*</b>, Min Wu*, Chee Keong Kwoh, Xiaoli Li and Cuntai Guan,<br>
-<i>IJCAI 2021</i> (<b>*Corresponding Author</b>).
+<b>IJCAI 2021</b> (<b>*Corresponding Author</b>).
 
 1. <b>Two-Stream Convolution Augmented Transformer for Human Activity Recognition</b><br>
 Bing Li, Wei Cui, Wei Wang, Le Zhang, <b>Zhenghua Chen</b>, and Min Wu<br>
-<i>AAAI 2021</i>, Code is available [here](https://github.com/windofshadow/THAT).
+<b>AAAI 2021</b>, Code is available [here](https://github.com/windofshadow/THAT).
 
 1. <b>A Deep Learning Approach for Sleep-Wake Detection from HRV and Accelerometer Data</b><br>
 <b>Zhenghua Chen</b>, Min Wu, Jiyan Wu, Jie Ding, Zeng Zeng, Karl Surmacz, Xiaoli Li,<br>
