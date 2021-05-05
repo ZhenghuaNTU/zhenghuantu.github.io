@@ -4,7 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-* **World's Top 2% Scientist**
+* **World's Top 2% Scientist 2020**
 * **A\*STAR Career Development Award 2020**
 * **First Runner-up Award for Grand Challenge at IEEE VCIP 2020**
 * **Finalist Academic Paper Award of IEEE ICPHM 2020**
