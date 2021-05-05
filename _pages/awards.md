@@ -4,6 +4,8 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+* **World's Top 2% Scientist 
+* **A\*STAR Career Development Award 2020 
 * **First Runner-up Award for Grand Challenge at IEEE VCIP 2020**
 * **Finalist Academic Paper Award of IEEE ICPHM 2020**
 * **Chinese Government Award For Outstanding Self-financed Students Abroad** (500 excellent PhD students all over the world), 2017.
