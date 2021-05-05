@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 ## Book & Book Chapter
-1. <b>[Generalization with Deep Learning: for improvement on Sensing Capability](https://worldscientific.com/worldscibooks/10.1142/11784)</b> <br><b>Zhenghua Chen</b>, Min Wu, and Xiaoli Li, <br><i>World Scientific<i>, 2020 March.
+1. <b>[Generalization with Deep Learning: for improvement on Sensing Capability](https://worldscientific.com/worldscibooks/10.1142/11784)</b> <br><b>Zhenghua Chen</b>, Min Wu, and Xiaoli Li, <br><i>World Scientific<i>, 2021.
+1. <b>[Deep Learning for Human Activity Recognition](https://link.springer.com/book/10.1007/978-981-16-0575-8)</b> <br>Xiaoli Li, Min Wu, <b>Zhenghua Chen</b>, and Le Zhang, <br><i>Springer<i>, 2021.
 1. <b>[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)</b> <br> 
 <b>Zhenghua Chen</b>, Chaoyang Jiang, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> In
 "Deep Learning: Algorithms and Applications", pp. 335-357. <i>Springer</i>, Cham, 2020.
@@ -13,7 +14,10 @@ author_profile: true
 
 ## Journal Publications
 
-1. <b>KDnet-RUL: A Knowledge Distillation Framework to Compress Deep Neural Networks for Machine Remaining Useful Life Prediction</b> <br> 
+1. <b>[An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG](https://ieeexplore.ieee.org/abstract/document/9417097)</b> <br> Emadeldeen Eldele, <b>Zhenghua Chen</b>, Chengyu Liu, Min Wu, Chee-Keong Kwoh, Xiaoli Li, and Cuntai Guan<br>
+<i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i>, 2021.
+
+1. <b>[KDnet-RUL: A Knowledge Distillation Framework to Compress Deep Neural Networks for Machine Remaining Useful Life Prediction](https://ieeexplore.ieee.org/document/9351733)</b> <br> 
 Qing Xu, <b>Zhenghua Chen*</b>, Keyu Wu, Chao Wang, Min Wu, and Xiaoli Li<br>
 <i>IEEE Transactions on Industrial Electronics</i>, 2021. (<b>*Corresponding Author</b>)
 
@@ -119,6 +123,14 @@ Jie Ding, Changyun Wen, Guoqi Li, <b>Zhenghua Chen</b>,<br>
 
 ## Conference Publications
 
+1. <b>Deep Reinforcement Learning Boosted Partial Domain Adaptation</b><br>
+Keyu Wu, Min Wu, Jianfei Yang, <b>Zhenghua Chen*</b>, Zhengguo Li and Xiaoli Li<br>, <i>IJCAI 2021</i> (<b>*Corresponding Author</b>).
+
+1. <b>Time-Series Representation Learning via Temporal and Contextual Contrasting</b><br>
+Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen*</b>, Min Wu*, Chee Keong Kwoh, Xiaoli Li and Cuntai Guan,<br>
+<i>IJCAI 2021</i> (<b>*Corresponding Author</b>).
+
+<i>AAAI 2021</i>, Code is available [here](https://github.com/windofshadow/THAT).
 1. <b>Two-Stream Convolution Augmented Transformer for Human Activity Recognition</b><br>
 Bing Li, Wei Cui, Wei Wang, Le Zhang, <b>Zhenghua Chen</b>, and Min Wu<br>
 <i>AAAI 2021</i>, Code is available [here](https://github.com/windofshadow/THAT).
