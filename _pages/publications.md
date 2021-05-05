@@ -130,7 +130,6 @@ Keyu Wu, Min Wu, Jianfei Yang, <b>Zhenghua Chen*</b>, Zhengguo Li and Xiaoli Li<
 Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen*</b>, Min Wu*, Chee Keong Kwoh, Xiaoli Li and Cuntai Guan,<br>
 <i>IJCAI 2021</i> (<b>*Corresponding Author</b>).
 
-<i>AAAI 2021</i>, Code is available [here](https://github.com/windofshadow/THAT).
 1. <b>Two-Stream Convolution Augmented Transformer for Human Activity Recognition</b><br>
 Bing Li, Wei Cui, Wei Wang, Le Zhang, <b>Zhenghua Chen</b>, and Min Wu<br>
 <i>AAAI 2021</i>, Code is available [here](https://github.com/windofshadow/THAT).
