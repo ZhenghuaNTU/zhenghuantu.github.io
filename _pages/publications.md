@@ -124,11 +124,15 @@ Jie Ding, Changyun Wen, Guoqi Li, <b>Zhenghua Chen</b>,<br>
 ## Conference Publications
 
 1. <b>Deep Reinforcement Learning Boosted Partial Domain Adaptation</b><br>
-Keyu Wu, Min Wu, Jianfei Yang, <b>Zhenghua Chen*</b>, Zhengguo Li and Xiaoli Li,<br> <b>IJCAI 2021</b> (<b>*Corresponding Author</b>).
+Keyu Wu, Min Wu, Jianfei Yang, <b>Zhenghua Chen</b>, Zhengguo Li and Xiaoli Li,<br> <b>IJCAI 2021</b> (<b>Corresponding Author</b>).
 
 1. <b>Time-Series Representation Learning via Temporal and Contextual Contrasting</b><br>
-Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen*</b>, Min Wu*, Chee Keong Kwoh, Xiaoli Li and Cuntai Guan,<br>
-<b>IJCAI 2021</b> (<b>*Corresponding Author</b>).
+Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen</b>, Min Wu, Chee Keong Kwoh, Xiaoli Li and Cuntai Guan,<br>
+<b>IJCAI 2021</b> (<b>Corresponding Author</b>).
+
+1. <b>A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data</b><br>
+Zaifeng Yang, Yubo Hou, <b>Zhenghua Chen</b>, Le Zhang, and Jie Chen,<br>
+<b>ICASSP 2021</b>.
 
 1. <b>Two-Stream Convolution Augmented Transformer for Human Activity Recognition</b><br>
 Bing Li, Wei Cui, Wei Wang, Le Zhang, <b>Zhenghua Chen</b>, and Min Wu<br>
