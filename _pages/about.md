@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* Our team AStarTrek has got <b>1st place winnder</b> for the [CVPR 2021 UG2+ Challenge Track 2.1](http://cvpr2021.ug2challenge.org/leaderboard21_t2.html).
 * <font color="red"><b>Call for Paper</b></font>: We are orgnizing a workshop at [IJCAI](https://ijcai-21.org/) 2021, named "[3RD International Workshop on Deep Learning for Human Activity Recognition](https://keyplay.github.io/ijcai2021_workshop/)". <b>The submission deadline is May 31, 2021.</b>
 * Two papers have been accepted in [IJCAI 2021](https://ijcai-21.org/) (acceptance rate: 13.9%).
 * One paper entitled "[An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG](https://ieeexplore.ieee.org/abstract/document/9417097/)" has been accepted by <b>IEEE Transactions on Neural Systems and Rehabilitation Engineering</b>. 
