@@ -17,7 +17,7 @@ redirect_from:
 
 # Recent News
 * One paper entitled "Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer" has been accepted as oral in [
-NeurIPS 2021](https://nips.cc/)(oral acceptance rate: 26%)
+NeurIPS 2021](https://nips.cc/)(oral acceptance rate: 26%) Code is available [here](https://github.com/yining043/VRP-DACT).
 * One paper entitled "Partial Video Domain Adaptation with Partial Adversarial Temporal Attentive Network" has been accepted as oral in [ICCV 2021](http://iccv2021.thecvf.com/home) (oral acceptance rate: 3%).
 * Our team AStarTrek has got <b>1st place winner</b> for the [CVPR 2021 UG2+ Challenge Track 2.1](http://cvpr2021.ug2challenge.org/leaderboard21_t2.html).
 * <b>Call for Paper</b>: We are orgnizing a workshop at [IJCAI](https://ijcai-21.org/) 2021, named "[3RD International Workshop on Deep Learning for Human Activity Recognition](https://keyplay.github.io/ijcai2021_workshop/)". <b>The submission deadline is May 31, 2021.</b>
