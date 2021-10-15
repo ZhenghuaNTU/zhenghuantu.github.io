@@ -6,6 +6,7 @@ author_profile: true
 ---
 * **Editorial Borad**
   * [Elsivier Neurocomputing](https://www.journals.elsevier.com/neurocomputing), 2021 - present, Associate Editor
+  * [Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/NeuralNetwork_rs), 2021, Guest Editor
   * [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/images/files/Publications/TETCI/SI18_CFP_IoT_HAR.pdf), 2020, Guest Editor
   * [Elsevier Neurocomputing](https://www.journals.elsevier.com/neurocomputing), 2019, Guest Editor
   * [Journal of Healthcare Engineering](https://www.hindawi.com/journals/jhe/), 2020, Guest Editor
@@ -20,6 +21,7 @@ author_profile: true
   * [IJCAI 2021](https://ijcai21.org/), 3nd International Workshop on "Deep Learning for Human Activity Recognition".
   * [IEEE ICARCV 2020](https://www.icarcv.sg/), Invited Session on "Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking".
   * [IEEE ICIEA 2021](http://www.ieeeiciea.org/2021/), Special Session on "Artificial Intelligence for Industrial Internet of Things (IIoT)".
+  * [IEEE ICIEA 2022](http://www.ieeeiciea.org/2022/), Special Session on "Artificial Intelligence for Industrial Internet of Things (IIoT)".
 * **Journal Invited Reviewer:**
   * IEEE Transactions on Industrial Electronics
   * IEEE Transactions on Industrial Informatics
