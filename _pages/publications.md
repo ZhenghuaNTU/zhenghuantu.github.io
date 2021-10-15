@@ -122,6 +122,9 @@ Jie Ding, Changyun Wen, Guoqi Li, <b>Zhenghua Chen</b>,<br>
 <i>IEEE Transactions on Cybernetics</i>, (2019).
 
 ## Conference Publications
+  
+1. <b>Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer</b><br> 
+  Yining Ma, Jingwen Li, Zhiguang Cao, Wen Song, Le Zhang, <b>Zhenghua Chen</b>, Jing Tang <br> <b>NeurIPS 2021</b>, Code is available [here](https://github.com/yining043/VRP-DACT).
 
 1. <b>Deep Reinforcement Learning Boosted Partial Domain Adaptation</b><br>
 Keyu Wu, Min Wu, Jianfei Yang, <b>Zhenghua Chen</b>, Zhengguo Li and Xiaoli Li,<br> <b>IJCAI 2021</b> (<b>Corresponding Author</b>).
