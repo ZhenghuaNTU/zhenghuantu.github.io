@@ -18,7 +18,7 @@ author_profile: true
 * Wang Yucheng
 * Cao Zhen
 
-## PhD students
+## PhD Students
 * [Mohamed Ragab](https://mohamedragab.owlstown.net/) (**SINGA scholarship**), **NTU**, collaborated with [Prof. Kwoh Chee-Keong](https://personal.ntu.edu.sg/asckkwoh/) and [Prof. Li Xiaoli](https://personal.ntu.edu.sg/xlli/)
 * [Lin Xiaohao](https://www.linkedin.com/in/xiaohao-lin/?originalSubdomain=sg) (**SINGA scholarship**), **NTU**, collaborated with [Prof. Guan Cuntai](https://personal.ntu.edu.sg/ctguan/) and [Dr. Wu Min](https://sites.google.com/site/wumincf/)
 * [Brain Formento](http://brianformento.com/) (**SINGA scholarship**), **NUS**, collaborated with [Prof. Ng See Kiong](https://www.comp.nus.edu.sg/~ngsk/) and [Dr. Foo Chuan Sheng](https://scholar.google.com/citations?user=AgbeqGkAAAAJ&hl=en)
