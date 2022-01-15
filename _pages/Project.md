@@ -1,10 +1,10 @@
 ---
 <!-- layout: archive -->
-title: "Projects"
+title: ""
 permalink: /project/
 author_profile: true
 ---
-### On-going Projects
+## On-going Projects
 * ***Contrastive Learning for Time Series Domain Adaptation***, 
   > A*STAR Career Development Award, 
   >
@@ -33,7 +33,7 @@ author_profile: true
   > 
   > <b>Co-PI</b>, collabrated with Dr. Yu Zaiqun
 
-### Completed Projects
+## Completed Projects
 * ***Deep Learning for Heterogeneous Data***, 
   > A*STAR Core Fund, 
   > 
