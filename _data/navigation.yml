@@ -24,6 +24,9 @@ main:
   - title: "Team"
     url: /team/  
     
+  - title: "Opening"
+    url: /opening/  
+    
   - title: "Contact"
     url: /contact/
     
