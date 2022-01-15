@@ -21,6 +21,9 @@ main:
   - title: "Project"
     url: /project/  
     
+  - title: "Team"
+    url: /team/  
+    
   - title: "Contact"
     url: /contact/
     
