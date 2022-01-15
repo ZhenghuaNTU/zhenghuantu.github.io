@@ -10,7 +10,7 @@ author_profile: true
   2021.04 - 2024.03, 
   <b>PI</b>
 
-* Deep Model Compression for Time Series Data Analytics via Knowledge Distillation, NRF Young Individual Research Grant, 2021.06 - 2024.05, <b>PI</b>
+* Deep Model Compression for Time Series Data Analytics via Knowledge Distillation, NRF Young Individual Research Grant, 2021.06 - 2024.05, **PI**
 
 * Learning with Less Data, A*STAR Programmatic Grant, 2021.04 - 2024.03, <b>Co-PI</b> (WP3: Transfer Learning), (collabrated with Prof Sinno Pan and Dr. Foo Chuan Sheng)
 
