@@ -4,7 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-* **World's Top 2% Scientist 2020**
+* **World's Top 2% Scientist 2021**
 * **First Place Winner for UG2+ Prize Challenge at CVPR 2021**
 * **Third Place for Grand Challenge at ICASSP 2021**
 * **A\*STAR Career Development Award 2020**
