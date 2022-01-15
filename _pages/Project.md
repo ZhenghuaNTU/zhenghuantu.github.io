@@ -1,13 +1,16 @@
 ---
 <!-- layout: archive -->
-title: "Project"
+title: "Projects"
 permalink: /project/
 author_profile: true
 ---
 On-going Projects
-* [K6312: Information Mining & Analysis](https://k6312.github.io/)
-* [H6571: Text & Web Mining](https://h6751.github.io/)
+* Contrastive Learning for Time Series Domain Adaptation, A*STAR Career Development Award, 2021.04 - 2024.03, PI
+* Deep Model Compression for Time Series Data Analytics via Knowledge Distillation, NRF Young Individual Research Grant, 2021.06 - 2024.05, PI
+* Learning with Less Data, A*STAR Programmatic Grant, 2021.04 - 2024.03, Co-PI (WP3: Transfer Learning), (collabrated with Prof Sinno Pan and Dr. Foo Chuan Sheng)
+* Automated Calibration and Model Maintenance of Probe-Based Spectroscopy in Plant Environment, 2020.08 - 2022.05, Co-PI, (collabrated with Dr. Yu Zaiqun)
 
 Completed Projects
-* [K6312: Information Mining & Analysis](https://k6312.github.io/)
+* Deep Learning for Heterogeneous Data, A*STAR Core Funding, PI
+
 
