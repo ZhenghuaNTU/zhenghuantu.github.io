@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Research Scientist
 
-**Research Scientist** (AI for time series data analytics) Positions available at I2R, A*STAR, Singapore.
+**Research Scientist** (AI for time series data analytics): Expertise in one of these areas, i.e., *Transfer Learning, Self-supervised Learning, Knowledge Distillation, Federated Learning, Reinforcement Learning*. Positions available at I2R, A*STAR, Singapore.
 
 
 ### PhD Scholarships
