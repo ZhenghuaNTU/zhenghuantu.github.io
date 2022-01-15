@@ -6,7 +6,11 @@ author_profile: true
 ---
 ## Research Scientist
 
-**Research Scientist** (AI for time series data analytics): Expertise in one of these areas, i.e., *Transfer Learning, Self-supervised Learning, Knowledge Distillation, Federated Learning, Reinforcement Learning*. Positions available at I2R, A*STAR, Singapore.
+* **Research Scientist** (AI for time series data analytics): Expertise in one of these areas, i.e., *Transfer Learning, Self-supervised Learning, Knowledge Distillation, Federated Learning, Reinforcement Learning*. Positions available at I2R, A*STAR, Singapore.
+
+## PosDoc Fellowship
+
+* ***SNAS ASEAN Fellowship***: The SG Academies South-East Asia Fellowship (SASEAF) Programme aims to attract bright postgraduate researchers from South-East Asia to Singapore research institutions for a 2-year long fellowship. ([click here for more details](https://snas.org.sg/aseanfellowship))
 
 
 ## PhD Scholarships
