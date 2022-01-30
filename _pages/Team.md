@@ -27,4 +27,4 @@ author_profile: true
 * Wang Yucheng (**Part-time PhD**), **NTU**, collaborated with [Prof. Xie Lihua](https://personal.ntu.edu.sg/elhxie/)
 * Liu Xinyu (**Exchange PhD under Chinese CSC Scholarship**), **Fuzhou University**, collaborated with [Prof. Jiang Hao](https://scholar.google.com.sg/citations?user=LkvoER0AAAAJ&hl=zh-CN)
 * Liu Shijia (**Exchange PhD under Chinese CSC Scholarship**), **Sichuan University**, collaborated with [Prof. Chen Liangyin](http://faculty.scu.edu.cn/chenliangyin/zh_CN/index.htm)
-* Gao Hongxiang (**Exchange PhD under Chinese CSC Scholarship**), **Southeast University**, collaborated with [Prof. Liu Chengyu](https://scholar.google.co.uk/citations?user=9vfBticAAAAJ&hl=en) and [Prof. Song Aiguo](https://scholar.google.com/citations?user=RjQ5TrEAAAAJ&hl=zh-CN)
+* Gao Hongxiang (**Exchange PhD under Chinese CSC Scholarship**), **Southeast University**, collaborated with [Prof. Liu Chengyu](https://scholar.google.co.uk/citations?user=9vfBticAAAAJ&hl=en)
