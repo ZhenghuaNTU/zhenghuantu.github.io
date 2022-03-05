@@ -8,7 +8,7 @@ author_profile: true
 * ***Self-aware Continuously Learning Models***,  
 AISG,  
 2022.06 - 2025.05,  
-<b>PI</b>  
+<b>Co-PI</b>, collabrated with Prof Xiaoli Li
 
 
 * ***Contrastive Learning for Time Series Domain Adaptation***,  
