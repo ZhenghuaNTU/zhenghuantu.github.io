@@ -5,6 +5,12 @@ permalink: /project/
 author_profile: true
 ---
 ## On-going Projects
+* ***Self-aware Continuously Learning Models***,  
+AISG,  
+2022.06 - 2025.05,  
+<b>PI</b>  
+
+
 * ***Contrastive Learning for Time Series Domain Adaptation***,  
 A*STAR Career Development Award,  
 2021.04 - 2024.03,  
@@ -18,7 +24,7 @@ NRF Young Individual Research Grant,
 
 * ***Learning with Less Data***,  
 A*STAR Programmatic Grant,   
-2021.04 - 2024.03, 
+2021.04 - 2024.03,   
 <b>Co-PI</b> (WP3: Transfer Learning), collabrated with Prof Sinno Pan and Dr. Foo Chuan Sheng  
 
 * ***Automated Calibration and Model Maintenance of Probe-Based Spectroscopy in Plant Environment***,   
