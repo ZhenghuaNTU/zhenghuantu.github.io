@@ -16,7 +16,7 @@ redirect_from:
 
 
 # Recent News
-* I have jointly appointed as <b>Early Career Investigator</b> at [Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar/home), A*STAR, Singapore.
+* I have been jointly appointed as <b>Early Career Investigator</b> at [Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar/home), A*STAR, Singapore.
 * One paper entitled "Generalizing Reinforcement Learning through Fusing Self-Supervised Learning into Intrinsic Motivation" has been accepted by [
 AAAI 2022](https://aaai.org/Conferences/AAAI-22/)(acceptance rate: 15%) 
 * One paper entitled "Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer" has been accepted by [
