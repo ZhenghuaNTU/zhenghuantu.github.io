@@ -16,6 +16,8 @@ redirect_from:
 
 
 # Recent News
+* One paper entitled "Learning Temporal Consistency for Source-Free Video Domain Adaptation" has been accepted by [
+ECCV 2022](https://eccv2022.ecva.net/) Code is available [here](https://github.com/xuyu0010/ATCoN).
 * I am serving as the Associate Editor for [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19).
 * I have been jointly appointed as <b>Early Career Investigator</b> at [Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar/home), A*STAR, Singapore.
 * One paper entitled "Generalizing Reinforcement Learning through Fusing Self-Supervised Learning into Intrinsic Motivation" has been accepted by [
