@@ -27,7 +27,7 @@ author_profile: true
 * [Hou Yubo](https://scholar.google.com/citations?user=MWxU3jEAAAAJ&hl=en) (**Part-time PhD**), **NTU**, collaborated with [Prof. Kwoh Chee-Keong](https://personal.ntu.edu.sg/asckkwoh/) 
 * [Xu Qing](https://scholar.google.com/citations?user=SlX-ghoAAAAJ&hl=en) (**Part-time PhD**), **NTU**, collaborated with [Prof. Mao Kezhi](https://scholar.google.com/citations?user=jCsRJXUAAAAJ&hl=en)
 * Wang Yucheng (**Part-time PhD**), **NTU**, collaborated with [Prof. Xie Lihua](https://personal.ntu.edu.sg/elhxie/)
-* [Li Peize] (**ARAP Joint PhD**), **University of Edinburgh**, collaborated with [Prof. Chris Xiaoxuan Lu](https://christopherlu.github.io/) and [Dr. Li Zhengguo](https://scholar.google.com.sg/citations?user=LiUX7WQAAAAJ&hl=en)
+* Li Peize (**ARAP Joint PhD**), **University of Edinburgh**, collaborated with [Prof. Chris Xiaoxuan Lu](https://christopherlu.github.io/) and [Dr. Li Zhengguo](https://scholar.google.com.sg/citations?user=LiUX7WQAAAAJ&hl=en)
 * Liu Xinyu (**Exchange PhD under Chinese CSC Scholarship**), **Fuzhou University**, collaborated with [Prof. Jiang Hao](https://scholar.google.com.sg/citations?user=LkvoER0AAAAJ&hl=zh-CN)
 * Liu Shijia (**Exchange PhD under Chinese CSC Scholarship**), **Sichuan University**, collaborated with [Prof. Chen Liangyin](http://faculty.scu.edu.cn/chenliangyin/zh_CN/index.htm)
 * Gao Hongxiang (**Exchange PhD under Chinese CSC Scholarship**), **Southeast University**, collaborated with [Prof. Liu Chengyu](https://scholar.google.co.uk/citations?user=9vfBticAAAAJ&hl=en)
