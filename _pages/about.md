@@ -16,7 +16,7 @@ redirect_from:
 
 
 # Recent News
-* Two papers entitled "Self-Supervised Autoregressive Domain Adaptation for Time Series Data" and "Aligning Correlation Information for Domain Adaptation in Action Recognition" have been accepted by IEEE TNNLS. 
+* Two papers entitled "Self-Supervised Autoregressive Domain Adaptation for Time Series Data" and "Aligning Correlation Information for Domain Adaptation in Action Recognition" have been accepted by **IEEE TNNLS**. 
 * One paper entitled "Learning Temporal Consistency for Source-Free Video Domain Adaptation" has been accepted by [
 ECCV 2022](https://eccv2022.ecva.net/) Code is available [here](https://github.com/xuyu0010/ATCoN).
 * I am serving as the Associate Editor for [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19).
