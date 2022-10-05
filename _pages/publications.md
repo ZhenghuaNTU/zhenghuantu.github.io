@@ -123,7 +123,7 @@ Jie Ding, Changyun Wen, Guoqi Li, <b>Zhenghua Chen</b>,<br>
 
 ## Conference Publications
   
-1. <b>Learning Temporal Consistency for Source-Free Video Domain Adaptation
+1. <b>Learning Temporal Consistency for Source-Free Video Domain Adaptation</b><br> 
   Yuecong Xu, Jianfei Yang, Haozhi Cao, Keyu Wu, Min Wu, and <b>Zhenghua Chen*</b>, <br> <b>ECCV 2022</b>
 
 1. <b>Generalizing Reinforcement Learning through Fusing Self-Supervised Learning into Intrinsic Motivation</b><br> 
