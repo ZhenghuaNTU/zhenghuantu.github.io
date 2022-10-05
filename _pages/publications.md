@@ -123,6 +123,12 @@ Jie Ding, Changyun Wen, Guoqi Li, <b>Zhenghua Chen</b>,<br>
 
 ## Conference Publications
   
+1. <b>Learning Temporal Consistency for Source-Free Video Domain Adaptation
+  Yuecong Xu, Jianfei Yang, Haozhi Cao, Keyu Wu, Min Wu, and <b>Zhenghua Chen*</b>, <br> <b>ECCV 2022</b>
+
+1. <b>Generalizing Reinforcement Learning through Fusing Self-Supervised Learning into Intrinsic Motivation</b><br> 
+  Keyu Wu, Min Wu, <b>Zhenghua Chen*</b>, Yuecong Xu, Xiaoli Li, <br> <b>AAAI 2022</b>
+  
 1. <b>Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer</b><br> 
   Yining Ma, Jingwen Li, Zhiguang Cao, Wen Song, Le Zhang, <b>Zhenghua Chen</b>, Jing Tang <br> <b>NeurIPS 2021</b>, Code is available [here](https://github.com/yining043/VRP-DACT).
 
