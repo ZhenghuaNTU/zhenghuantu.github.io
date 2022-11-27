@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* One paper entitled "SEnsor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation" has been accepted by **AAAI 2023** (acceptance rate: 19.6%) 
 * Two papers entitled "Self-Supervised Autoregressive Domain Adaptation for Time Series Data" and "Aligning Correlation Information for Domain Adaptation in Action Recognition" have been accepted by **IEEE TNNLS**. 
 * One paper entitled "Learning Temporal Consistency for Source-Free Video Domain Adaptation" has been accepted by [
 ECCV 2022](https://eccv2022.ecva.net/) Code is available [here](https://github.com/xuyu0010/ATCoN).
