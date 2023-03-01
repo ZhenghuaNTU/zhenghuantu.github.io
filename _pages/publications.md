@@ -100,8 +100,8 @@ author_profile: true
 1. <b>Cost-effective Elderly Fall Detection with Symmetry Transformer Networks</b><br>
   Bing Li, Wei Cui, Yanru Chen, Joey Tianyi Zhou, \textbf{Zhenghua Chen}, Yuli Li, and Min Wu, <br> <b>IEEE SmartCity 2022</b> (Best Paper Award)
   
-1. <b>Learning Temporal Consistency for Source-Free Video Domain Adaptation</b><br> 
-  Yuecong Xu, Jianfei Yang, Haozhi Cao, Keyu Wu, Min Wu, and <b>Zhenghua Chen*</b>, <br> <b>ECCV 2022</b>
+1. <b>Source-Free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition</b><br> 
+  Yuecong Xu, Jianfei Yang, Haozhi Cao, Keyu Wu, Min Wu, and <b>Zhenghua Chen*</b>, <br> <b>ECCV 2022</b> Code is available [here](https://github.com/xuyu0010/ATCoN).
 
 1. <b>Generalizing Reinforcement Learning through Fusing Self-Supervised Learning into Intrinsic Motivation</b><br> 
   Keyu Wu, Min Wu, <b>Zhenghua Chen*</b>, Yuecong Xu, Xiaoli Li, <br> <b>AAAI 2022</b>
@@ -114,7 +114,7 @@ Keyu Wu, Min Wu, Jianfei Yang, <b>Zhenghua Chen*</b>, Zhengguo Li and Xiaoli Li,
 
 1. <b>Time-Series Representation Learning via Temporal and Contextual Contrasting</b><br>
 Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen*</b>, Min Wu*, Chee Keong Kwoh, Xiaoli Li and Cuntai Guan,<br>
-<b>IJCAI 2021</b>
+<b>IJCAI 2021</b> Code is available [here](https://github.com/emadeldeen24/TS-TCC).
 
 1. <b>A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data</b><br>
 Zaifeng Yang, Yubo Hou, <b>Zhenghua Chen</b>, Le Zhang, and Jie Chen,<br>
