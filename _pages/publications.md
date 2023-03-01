@@ -90,6 +90,16 @@ author_profile: true
 
 ## Conference Publications
   
+
+1. <b>SEnsor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation</b><br>
+  Yucheng Wang, Yuecong Xu, Jianfei Yang, <b>Zhenghua Chen*</b>, Min Wu, Xiaoli Li and Lihua Xie, <br> <b>AAAI 2023</b> (Acceptance Rate: 19.6%)
+  
+1. <b>Multi-task Self Supervised Adaptation for Reinforcement Learning</b><br>
+  Keyu Wu, <b>Zhenghua Chen*</b>, Min Wu, Shili Xiang, Ruibing Jin, Le Zhang and Xiaoli Li, <br> <b>IEEE ICIEA 2022</b> (Best Paper Award)
+
+1. <b>Cost-effective Elderly Fall Detection with Symmetry Transformer Networks</b><br>
+  Bing Li, Wei Cui, Yanru Chen, Joey Tianyi Zhou, \textbf{Zhenghua Chen}, Yuli Li, and Min Wu, <br> <b>IEEE SmartCity 2022</b> (Best Paper Award)
+  
 1. <b>Learning Temporal Consistency for Source-Free Video Domain Adaptation</b><br> 
   Yuecong Xu, Jianfei Yang, Haozhi Cao, Keyu Wu, Min Wu, and <b>Zhenghua Chen*</b>, <br> <b>ECCV 2022</b>
 
@@ -100,11 +110,11 @@ author_profile: true
   Yining Ma, Jingwen Li, Zhiguang Cao, Wen Song, Le Zhang, <b>Zhenghua Chen</b>, Jing Tang <br> <b>NeurIPS 2021</b>, Code is available [here](https://github.com/yining043/VRP-DACT).
 
 1. <b>Deep Reinforcement Learning Boosted Partial Domain Adaptation</b><br>
-Keyu Wu, Min Wu, Jianfei Yang, <b>Zhenghua Chen</b>, Zhengguo Li and Xiaoli Li,<br> <b>IJCAI 2021</b> (<b>Corresponding Author</b>).
+Keyu Wu, Min Wu, Jianfei Yang, <b>Zhenghua Chen*</b>, Zhengguo Li and Xiaoli Li,<br> <b>IJCAI 2021</b>
 
 1. <b>Time-Series Representation Learning via Temporal and Contextual Contrasting</b><br>
-Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen</b>, Min Wu, Chee Keong Kwoh, Xiaoli Li and Cuntai Guan,<br>
-<b>IJCAI 2021</b> (<b>Corresponding Author</b>).
+Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen*</b>, Min Wu*, Chee Keong Kwoh, Xiaoli Li and Cuntai Guan,<br>
+<b>IJCAI 2021</b>
 
 1. <b>A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data</b><br>
 Zaifeng Yang, Yubo Hou, <b>Zhenghua Chen</b>, Le Zhang, and Jie Chen,<br>
