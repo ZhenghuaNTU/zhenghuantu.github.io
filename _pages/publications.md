@@ -98,7 +98,7 @@ author_profile: true
   Keyu Wu, <b>Zhenghua Chen*</b>, Min Wu, Shili Xiang, Ruibing Jin, Le Zhang and Xiaoli Li, <br> <b>IEEE ICIEA 2022</b> (Best Paper Award)
 
 1. <b>Cost-effective Elderly Fall Detection with Symmetry Transformer Networks</b><br>
-  Bing Li, Wei Cui, Yanru Chen, Joey Tianyi Zhou, \textbf{Zhenghua Chen}, Yuli Li, and Min Wu, <br> <b>IEEE SmartCity 2022</b> (Best Paper Award)
+  Bing Li, Wei Cui, Yanru Chen, Joey Tianyi Zhou, <b>Zhenghua Chen</b>, Yuli Li, and Min Wu, <br> <b>IEEE SmartCity 2022</b> (Best Paper Award)
   
 1. <b>Source-Free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition</b><br> 
   Yuecong Xu, Jianfei Yang, Haozhi Cao, Keyu Wu, Min Wu, and <b>Zhenghua Chen*</b>, <br> <b>ECCV 2022</b> Code is available [here](https://github.com/xuyu0010/ATCoN).
