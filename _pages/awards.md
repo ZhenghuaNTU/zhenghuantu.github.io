@@ -4,7 +4,9 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-* **World's Top 2% Scientist 2021**
+* **World's Top 2% Scientist 2020, 2021, 2022**
+* **Best Paper Award at IEEE ICIEA 2022**
+* **Best Paper Award at IEEE SmartCity 2022**
 * **First Place Winner for UG2+ Prize Challenge at CVPR 2021**
 * **Third Place for Grand Challenge at ICASSP 2021**
 * **A\*STAR Career Development Award 2020**
