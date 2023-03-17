@@ -5,6 +5,7 @@ permalink: /professional/
 author_profile: true
 ---
 * **Editorial Borad**
+  * [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), 2023 - present, Associate Editor
   * [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19), 2022 - present, Associate Editor
   * [Elsivier Neurocomputing](https://www.journals.elsevier.com/neurocomputing), 2021 - present, Associate Editor
   * [World Scientific Annual Review of Artificial Intelligence](https://www.worldscientific.com/worldscinet/wsarai), 2021 - present, Associate Editor
@@ -14,11 +15,17 @@ author_profile: true
   * [Elsevier Neurocomputing](https://www.journals.elsevier.com/neurocomputing), 2019, Guest Editor
   * [Journal of Healthcare Engineering](https://www.hindawi.com/journals/jhe/), 2020, Guest Editor
 * **Academic Society**
+  * IEEE Sensors Council Singapore Chapter, 2023-2024, Chair 
   * IEEE Sensors Council Singapore Chapter, 2021-2023, Vice Chair 
+  * Member of the IEEE IES Technical Committee on Industrial Cyber-Physical Systems
   * IEEE Senior Member
-* **Track Chair**, [IEEE ICIEA 2021](http://www.ieeeiciea.org/2021/), [IEEE ICIEA 2020](http://www.ieeeiciea.org/2020/) and [IEEE IECON 2020](https://www.iecon2020.org/)
-* **Conference PC**, AAAI 2021, IJCAI 2021, IJCAI2020 and [IEEE OGC 2020](http://www.ipsogc.org/)
-* **Conference Organizer**, 
+* **Conference Chair**, 
+  * IEEE IECON 2022 (Invited Session Chair)
+  * IEEE ICARCV 2022 (Invited Session Chair)
+  * IEEE ICIEA 2020, 2021, 2022 (Track Chair)
+  * IEEE IECON 2020 (Track Chair)
+* **Conference/Workshop/Challenge Organizer**, 
+  * [ICDM 2022](https://sustainai.github.io/icdm2022_workshop/), 1st International Workshop on "Sustainable AI"
   * [CVPR 2022](https://cvpr2022.thecvf.com/), 5th UG2+ Prize Challenge.
   * [IJCAI 2019](https://ijcai19.org/), 1st International Workshop on "Deep Learning for Human Activity Recognition".
   * [IJCAI 2020](https://ijcai20.org/), 2nd International Workshop on "Deep Learning for Human Activity Recognition".
