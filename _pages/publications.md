@@ -118,7 +118,7 @@ author_profile: true
 Keyu Wu, Min Wu, Jianfei Yang, <b>Zhenghua Chen*</b>, Zhengguo Li and Xiaoli Li,<br> <b>IJCAI 2021</b>
 
 1. <b>Time-Series Representation Learning via Temporal and Contextual Contrasting</b><br>
-Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen*</b>, Min Wu*, Chee Keong Kwoh, Xiaoli Li and Cuntai Guan,<br>
+Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen*, Min Wu*, Chee Keong Kwoh, Xiaoli Li and Cuntai Guan,<br>
 <b>IJCAI 2021</b> Code is available [here](https://github.com/emadeldeen24/TS-TCC).
 
 1. <b>A Multi-Stage Progressive Learning Strategy for COVID-19 Diagnosis using Chest Computed Tomography with Imbalanced Data</b><br>
