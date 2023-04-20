@@ -16,6 +16,8 @@ redirect_from:
 
 
 # Recent News
+* One paper entitled "Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data" has been accepted by **IJCAI 2023** (acceptance rate: 15%) 
+* I am serving as the Associate Editor for [Springer Discover Artificial Intelligence](https://www.springer.com/journal/44163).
 * I am serving as the Associate Editor for [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424).
 * One paper entitled "SEnsor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation" has been accepted by **AAAI 2023** (acceptance rate: 19.6%) 
 * Two papers entitled "Self-Supervised Autoregressive Domain Adaptation for Time Series Data" and "Aligning Correlation Information for Domain Adaptation in Action Recognition" have been accepted by **IEEE TNNLS**. 
