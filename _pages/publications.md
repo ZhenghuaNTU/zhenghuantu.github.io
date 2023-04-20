@@ -93,6 +93,9 @@ author_profile: true
 ## Conference Publications
   
 
+1. <b>Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data</b><br>
+  Qing Xu, Min Wu, Xiaoli Li, Kezhi Mao, and <b>Zhenghua Chen*</b>, <br> <b>IJCAI 2023</b> (Acceptance Rate: 15%)
+
 1. <b>SEnsor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation</b><br>
   Yucheng Wang, Yuecong Xu, Jianfei Yang, <b>Zhenghua Chen*</b>, Min Wu, Xiaoli Li and Lihua Xie, <br> <b>AAAI 2023</b> (Acceptance Rate: 19.6%)
   
