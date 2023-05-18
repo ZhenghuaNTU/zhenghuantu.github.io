@@ -92,6 +92,8 @@ author_profile: true
 
 ## Conference Publications
   
+1. <b>Source-Free Domain Adaptation with Temporal Imputation for Time Series Data</b><br>
+  Mohamed Ragab, Emadeldeen Eldele, Chuan Sheng Foo, Min Wu, Xiaoli Li, and <b>Zhenghua Chen*</b>, <br> <b>KDD 2023</b> (Acceptance Rate: 22%)
 
 1. <b>Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data</b><br>
   Qing Xu, Min Wu, Xiaoli Li, Kezhi Mao, and <b>Zhenghua Chen*</b>, <br> <b>IJCAI 2023</b> (Acceptance Rate: 15%)
