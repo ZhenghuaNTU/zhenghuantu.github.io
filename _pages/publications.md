@@ -14,6 +14,7 @@ author_profile: true
 
 ## Journal Publications (* represents Corresponding Author)
 # Year 2023 
+1. Shijia Liu, <b>Zhenghua Chen</b>, Min Wu, Chang Liu, and Liangyin Chen. “WiSR: Wireless Domain Generalization Based on Style Randomization.” IEEE Transactions on Mobile Computing, accepted, to appear (2023). 
 1. <b>Zhenghua Chen</b>, Min Wu, Alvin Chan, Xiaoli Li and Yew-Soon Ong. “A Survey on AI Sustainability: Emerging Trends on Learning Algorithms and Research Challenges.” IEEE Computational Intelligence Magazine, accepted, to appear (2023). 
 1. Mohamed Ragab, Emadeldeen Eldele, Chuan-Sheng Foo, <b>Zhenghua Chen*</b>, Min Wu, Chee-Keong Kwoh, and Xiaoli Li. “ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data.” ACM Transactions on Knowledge Discovery from Data, accepted, to appear (2023). 
 1. Yuecong Xu, Jianfei Yang, Haozhi Cao, Keyu Wu, Min Wu, Zhengguo Li and <b>Zhenghua Chen*</b>. “Multi-Source Video Domain Adaptation with Temporal Attentive Moment Alignment Network.” IEEE Transactions on Circuits and Systems for Video Technology, accepted, to appear (2023).
