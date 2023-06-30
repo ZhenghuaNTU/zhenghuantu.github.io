@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* One paper entitled "WiSR: Wireless Domain Generalization Based on Style Randomization" has been accepted by **IEEE TMC** 
 * One paper entitled "Source-Free Domain Adaptation with Temporal Imputation for Time Series Data" has been accepted by **KDD 2023** (acceptance rate: 22%) 
 * One paper entitled "Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data" has been accepted by **IJCAI 2023** (acceptance rate: 15%) 
 * I am serving as the Associate Editor for [Springer Discover Artificial Intelligence](https://www.springer.com/journal/44163).
