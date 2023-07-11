@@ -14,7 +14,7 @@ author_profile: true
 
 ## Journal Publications (* represents Corresponding Author)
 # Year 2023 
-1. Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen*</b>, Min Wu, Chee-Keong Kwoh, and Xiaoli Li. “CoTMix: Contrastive Domain Adaptation for Time-Series via Temporal Mixup.” IEEE Transactions on Artificial Intelligence, accepted, to appear (2023). 
+1. Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen</b>, Min Wu, Chee-Keong Kwoh, and Xiaoli Li. “CoTMix: Contrastive Domain Adaptation for Time-Series via Temporal Mixup.” IEEE Transactions on Artificial Intelligence, accepted, to appear (2023). 
 1. Shijia Liu, <b>Zhenghua Chen</b>, Min Wu, Chang Liu, and Liangyin Chen. “WiSR: Wireless Domain Generalization Based on Style Randomization.” IEEE Transactions on Mobile Computing, accepted, to appear (2023). 
 1. <b>Zhenghua Chen</b>, Min Wu, Alvin Chan, Xiaoli Li and Yew-Soon Ong. “A Survey on AI Sustainability: Emerging Trends on Learning Algorithms and Research Challenges.” IEEE Computational Intelligence Magazine, accepted, to appear (2023). 
 1. Mohamed Ragab, Emadeldeen Eldele, Chuan-Sheng Foo, <b>Zhenghua Chen*</b>, Min Wu, Chee-Keong Kwoh, and Xiaoli Li. “ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data.” ACM Transactions on Knowledge Discovery from Data, accepted, to appear (2023). 
