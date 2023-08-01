@@ -16,6 +16,9 @@ redirect_from:
 
 
 # Recent News
+* I am serving as the Associate Editor for [IEEE Transactions on Industrial Cyber-Physical Systems](https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems).
+* I am serving as the Associate Editor for [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361).
+* One paper entitled "Generalizing Wireless Cross-Multiple-Factor Gesture Recognition to Unseen Domains" has been accepted by **IEEE Transactions on Mobile Computing** 
 * One paper entitled "Contrastive Domain Adaptation for Time-Series via Temporal Mixup" has been accepted by **IEEE Transactions on Artificial Intelligence** 
 * One paper entitled "WiSR: Wireless Domain Generalization Based on Style Randomization" has been accepted by **IEEE Transactions on Mobile Computing** 
 * One paper entitled "Source-Free Domain Adaptation with Temporal Imputation for Time Series Data" has been accepted by **KDD 2023** (acceptance rate: 22%) 
