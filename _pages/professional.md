@@ -6,7 +6,9 @@ author_profile: true
 ---
 * **Editorial Borad**
   * [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), 2023 - present, Associate Editor
+  * [IEEE Transactions on Industrial Cyber-Physical Systems](https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems), 2023 - present, Associate Editor
   * [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19), 2022 - present, Associate Editor
+  * [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), 2023 - present, Associate Editor
   * [Elsivier Neurocomputing](https://www.journals.elsevier.com/neurocomputing), 2021 - present, Associate Editor
   * [World Scientific Annual Review of Artificial Intelligence](https://www.worldscientific.com/worldscinet/wsarai), 2021 - present, Associate Editor
   * [IEEE/CAA Journal of Automatica Sinica](https://www.ieee-jas.net/), 2021 - present, Early Career Advisory Board
