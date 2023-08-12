@@ -95,6 +95,9 @@ author_profile: true
 
 ## Conference Publications
   
+1. <b>Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation</b><br>
+  Yuecong Xu, Jianfei Yang, Yunjiao Zhou, Min Wu, Xiaoli Li, and <b>Zhenghua Chen*</b>, <br> <b>ICCV 2023</b> 
+
 1. <b>Source-Free Domain Adaptation with Temporal Imputation for Time Series Data</b><br>
   Mohamed Ragab, Emadeldeen Eldele, Chuan Sheng Foo, Min Wu, Xiaoli Li, and <b>Zhenghua Chen*</b>, <br> <b>KDD 2023</b> (Acceptance Rate: 22%)
 
