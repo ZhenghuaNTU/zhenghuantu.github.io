@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* One paper entitled "Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation" has been accepted by **ICCV 2023**
 * I am serving as the Associate Editor for [IEEE Transactions on Industrial Cyber-Physical Systems](https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems).
 * I am serving as the Associate Editor for [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361).
 * One paper entitled "Generalizing Wireless Cross-Multiple-Factor Gesture Recognition to Unseen Domains" has been accepted by **IEEE Transactions on Mobile Computing** 
