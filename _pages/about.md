@@ -16,6 +16,8 @@ redirect_from:
 
 
 # Recent News
+
+* One paper entitled "Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence** 
 * One paper entitled "Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation" has been accepted by **ICCV 2023**
 * I am serving as the Associate Editor for [IEEE Transactions on Industrial Cyber-Physical Systems](https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems).
 * I am serving as the Associate Editor for [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361).
