@@ -16,6 +16,7 @@ author_profile: true
 # Year 2023 
 
 1. Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen</b>, Min Wu, Chee-Keong Kwoh, Xiaoli Li, and Cuntai Guan. “Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification.” IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, to appear (2023).
+2. Wenjun Sun, Ruqiang Yan, Ruibing Jin, Jiawen Xu, Yuan Yang, and <b>Zhenghua Chen</b>. “LiteFormer: a lightweight and efficient Transformer for rotating machine fault diagnosis” IEEE Transactions on Reliability, accepted, to appear (2023).
 1. Qing Xu, Min Wu, Xiaoli Li, Kezhi Mao, and <b>Zhenghua Chen*</b>,. “Contrastive Distillation with Regularized Knowledge for Deep Model Compression on Sensor-based Human Activity Recognition.” IEEE Transactions on Industrial Cyber-Physical Systems, accepted, to appear (2023).
 1. Hongxiang Gao, Xingyao Wang, <b>Zhenghua Chen*</b>, Min Wu, Jianqing Li, and Chengyu Liu. “ECG-CL: A Comprehensive Electrocardiogram Interpretation Method Based on Continual Learning.” IEEE Journal of Biomedical and Health Informatics, accepted, to appear (2023). 
 1. Shijia Liu, <b>Zhenghua Chen</b>, Min Wu, Hao Wang, Bin Xing and Liangyin Chen. “Generalizing Wireless Cross-Multiple-Factor Gesture Recognition to Unseen Domains.” IEEE Transactions on Mobile Computing, accepted, to appear (2023). 
