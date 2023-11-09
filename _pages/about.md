@@ -17,7 +17,9 @@ redirect_from:
 
 # Recent News
 
-* One paper entitled "Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence** 
+* One paper entitled "Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**
+* One paper entitled "Local-Global Correlation Fusion based Graph Neural Network for Remaining Useful Life Prediction" has been accepted by **IEEE Transactions on Neural Networks and Learning Systems**
+* One paper entitled "Going Deeper into Recognizing Actions in Dark Environments: A Comprehensive Benchmark Study" has been accepted by **International Journal of Computer Vision** 
 * One paper entitled "Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation" has been accepted by **ICCV 2023**
 * I am serving as the Associate Editor for [IEEE Transactions on Industrial Cyber-Physical Systems](https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems).
 * I am serving as the Associate Editor for [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361).
