@@ -102,6 +102,12 @@ author_profile: true
 
 
 ## Conference Publications
+
+1. <b>Graph Contextual Contrasting for Multivariate Time Series Classification</b><br>
+  Yucheng Wang, Yuecong Xu, Jianfei Yang, Min Wu, Xiaoli Li, Lihua Xie and <b>Zhenghua Chen*</b>, <br> <b>AAAI 2024</b> (Acceptance Rate: 23.75%)
+
+1. <b>Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data</b><br>
+  Yucheng Wang, Yuecong Xu, Jianfei Yang, Min Wu, Xiaoli Li, Lihua Xie and <b>Zhenghua Chen*</b>, <br> <b>AAAI 2024</b> (Acceptance Rate: 23.75%)
   
 1. <b>Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation</b><br>
   Yuecong Xu, Jianfei Yang, Yunjiao Zhou, Min Wu, Xiaoli Li, and <b>Zhenghua Chen*</b>, <br> <b>ICCV 2023</b> 
