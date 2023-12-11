@@ -5,7 +5,6 @@ permalink: /team/
 author_profile: true
 ---
 ## Research Scientists
-* [Dr. Cao Zhiguang](https://zhiguangcaosg.github.io/)
 * [Dr. Wu Keyu](https://scholar.google.com/citations?user=GpvNLrQAAAAJ&hl=en)
 * [Dr. Cui Wei](https://scholar.google.com.sg/citations?user=3yL9qTsAAAAJ&hl=zh-CN)
 * [Dr. Jin Ruibing](https://scholar.google.com/citations?user=iqloFEEAAAAJ&hl=en)
@@ -28,16 +27,21 @@ author_profile: true
 * [Hou Yubo](https://scholar.google.com/citations?user=MWxU3jEAAAAJ&hl=en) (**Part-time PhD**), **NTU**, collaborated with [Prof. Kwoh Chee-Keong](https://personal.ntu.edu.sg/asckkwoh/) 
 * [Xu Qing](https://scholar.google.com/citations?user=SlX-ghoAAAAJ&hl=en) (**Part-time PhD**), **NTU**, collaborated with [Prof. Mao Kezhi](https://scholar.google.com/citations?user=jCsRJXUAAAAJ&hl=en)
 * Wang Yucheng (**Part-time PhD**), **NTU**, collaborated with [Prof. Xie Lihua](https://personal.ntu.edu.sg/elhxie/)
-* Li Peize (**ARAP Joint PhD**), **University of Edinburgh**, collaborated with [Prof. Chris Xiaoxuan Lu](https://christopherlu.github.io/) and [Dr. Li Zhengguo](https://scholar.google.com.sg/citations?user=LiUX7WQAAAAJ&hl=en)
-* Lan Weichao (**PhD attachment**), **Hong Kong Baptist University**, collaborated with [Prof. Cheung Yiu Ming](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ymc)
-* Yin Cunyi (**Exchange PhD under Chinese CSC Scholarship**), **Fuzhou University**, collaborated with [Prof. Jiang Hao](https://scholar.google.com.sg/citations?user=LkvoER0AAAAJ&hl=zh-CN)
+* Zhang Wenwen (**Exchange PhD under Chinese CSC Scholarship**), **Zhejiang University**, collaborated with [Prof. Eryun Liu](https://person.zju.edu.cn/eryunliu#0)
+* Zhou Yaoyao (**Exchange PhD under Chinese CSC Scholarship**), **Chongqing University**, collaborated with [Prof. Gang Chen](http://accu.cqu.edu.cn/info/1219/4293.htm)
+* Lan Zhen (**Exchange PhD under Chinese CSC Scholarship**), **National University of Defense Technology**, collaborated with [Prof. Aiguo Fei]
+* Chen Zhongshu (**Exchange PhD under Chinese CSC Scholarship**), **University of Electronic Science and Technology of China**, collaborated with [Prof. Yu Liu](https://faculty.uestc.edu.cn/yuliu)
 
 ## Intern Students
-* Cai Mingqing, NTU Msc
-* Wang Xiyu, NTU Master by Research
+* Wang Haodong, SIGPA scholarship
 * Huang Chenxi, NUS Msc
 
 ## Alumni
+* Yin Cunyi (CSC exchange PhD from Fuzhou University)
+* Pan Yatian (Intern, now PhD at NUS)
+* [Dr. Cao Zhiguang](https://zhiguangcaosg.github.io/) (Scientist, now Assistant Professor at SMU)
+* Lan Weichao (PhD attachment from Hong Kong Baptist University)
+* Wang Xiyu (Intern, now PhD at NTU)
 * Liu Xinyu (CSC exchange PhD from Fuzhou University)
 * Liu Shijia (CSC exchange PhD from Sichuan University)
 * Gao Hongxiang (CSC exchange PhD from Southeast University)
