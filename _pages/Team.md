@@ -29,7 +29,7 @@ author_profile: true
 * Wang Yucheng (**Part-time PhD**), **NTU**, collaborated with [Prof. Xie Lihua](https://personal.ntu.edu.sg/elhxie/)
 * Zhang Wenwen (**Exchange PhD under Chinese CSC Scholarship**), **Zhejiang University**, collaborated with [Prof. Eryun Liu](https://person.zju.edu.cn/eryunliu#0)
 * Zhou Yaoyao (**Exchange PhD under Chinese CSC Scholarship**), **Chongqing University**, collaborated with [Prof. Gang Chen](http://accu.cqu.edu.cn/info/1219/4293.htm)
-* Lan Zhen (**Exchange PhD under Chinese CSC Scholarship**), **National University of Defense Technology**, collaborated with [Prof. Aiguo Fei]
+* Lan Zhen (**Exchange PhD under Chinese CSC Scholarship**), **National University of Defense Technology**, collaborated with [Prof. Aiguo Fei](https://ieeexplore.ieee.org/author/37087030586)
 * Chen Zhongshu (**Exchange PhD under Chinese CSC Scholarship**), **University of Electronic Science and Technology of China**, collaborated with [Prof. Yu Liu](https://faculty.uestc.edu.cn/yuliu)
 
 ## Intern Students
