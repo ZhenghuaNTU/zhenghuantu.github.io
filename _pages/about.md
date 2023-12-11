@@ -16,7 +16,7 @@ redirect_from:
 
 
 # Recent News
-
+* Two papers entitled "Graph Contextual Contrasting for Multivariate Time Series Classification" and "Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data" has been accepted by **AAAI 2024**
 * One paper entitled "Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**
 * One paper entitled "Local-Global Correlation Fusion based Graph Neural Network for Remaining Useful Life Prediction" has been accepted by **IEEE Transactions on Neural Networks and Learning Systems**
 * One paper entitled "Going Deeper into Recognizing Actions in Dark Environments: A Comprehensive Benchmark Study" has been accepted by **International Journal of Computer Vision** 
