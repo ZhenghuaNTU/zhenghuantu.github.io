@@ -26,7 +26,7 @@ author_profile: true
 * [Brain Formento](http://brianformento.com/) (**SINGA scholarship**), **NUS**, collaborated with [Prof. Ng See Kiong](https://www.comp.nus.edu.sg/~ngsk/) and [Dr. Foo Chuan Sheng](https://scholar.google.com/citations?user=AgbeqGkAAAAJ&hl=en)
 * [Hou Yubo](https://scholar.google.com/citations?user=MWxU3jEAAAAJ&hl=en) (**Part-time PhD**), **NTU**, collaborated with [Prof. Kwoh Chee-Keong](https://personal.ntu.edu.sg/asckkwoh/) 
 * [Xu Qing](https://scholar.google.com/citations?user=SlX-ghoAAAAJ&hl=en) (**Part-time PhD**), **NTU**, collaborated with [Prof. Mao Kezhi](https://scholar.google.com/citations?user=jCsRJXUAAAAJ&hl=en)
-* Wang Yucheng (**Part-time PhD**), **NTU**, collaborated with [Prof. Xie Lihua](https://personal.ntu.edu.sg/elhxie/)
+* [Wang Yucheng](https://frank-wang-oss.github.io/) (**Part-time PhD**), **NTU**, collaborated with [Prof. Xie Lihua](https://personal.ntu.edu.sg/elhxie/)
 * Zhang Wenwen (**Exchange PhD under Chinese CSC Scholarship**), **Zhejiang University**, collaborated with [Prof. Eryun Liu](https://person.zju.edu.cn/eryunliu#0)
 * Zhou Yaoyao (**Exchange PhD under Chinese CSC Scholarship**), **Chongqing University**, collaborated with [Prof. Gang Chen](http://accu.cqu.edu.cn/info/1219/4293.htm)
 * Lan Zhen (**Exchange PhD under Chinese CSC Scholarship**), **National University of Defense Technology**, collaborated with [Prof. Aiguo Fei](https://ieeexplore.ieee.org/author/37087030586)
