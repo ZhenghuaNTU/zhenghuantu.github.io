@@ -13,6 +13,11 @@ author_profile: true
 
 
 ## Journal Publications (* represents Corresponding Author)
+# Year 2024
+1. Yuecong Xu, Jianfei Yang, Haozhi Cao, Min Wu, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen*</b>. "Leveraging Endo- and Exo-Temporal Regularization for Black-box Video Domain Adaptation" TMLR, accepted, to appear (2024).
+1. Xiaoyao Zheng, Xingwang Li, <b>Zhenghua Chen</b>, Liping Sun, Qingying Yu, Liangmin Guo, and Yonglong Luo. "Enhanced Self-Attention Mechanism for Long and Short Term Sequential Recommendation Models", IEEE Transactions on Emerging Topics in Computational Intelligence, accepted, to appear (2024).
+1. Cunyi Yin, Xiren Miao, Jing Chen, Hao Jiang, Jianfei Yang, Yunjiao Zhou, Min Wu, and <b>Zhenghua Chen</b>. "PowerSkel: A Device-Free Framework Using CSI Signal for Human Skeleton Estimation in Power Station" IEEE Internet of Things Journal, accepted, to appear (2024).
+
 # Year 2023 
 1. Yucheng Wang, Min Wu, Ruibing Jin, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen*</b>. “Local-Global Correlation Fusion based Graph Neural Network for Remaining Useful Life Prediction” IEEE Transactions on Neural Networks and Learning Systems, accepted, to appear (2023).
 1. Qing Xu, Keyu Wu, Min Wu, Kezhi Mao, Xiaoli Li, and <b>Zhenghua Chen*</b>.. “Reinforced Knowledge Distillation for Time Series Regression” IEEE Transactions on Artificial Intelligence, accepted, to appear (2023).
