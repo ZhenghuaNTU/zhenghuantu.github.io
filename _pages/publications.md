@@ -14,6 +14,7 @@ author_profile: true
 
 ## Journal Publications (* represents Corresponding Author)
 # Year 2024
+1. Wei Cui, Keyu Wu, Min Wu, Xiaoli Li, and <b>Zhenghua Chen*</b>. “WiCAU: Comprehensive Partial Adaptation with Uncertainty-aware for WiFi-based Cross-environment Activity Recognition” IEEE Transactions on Instrumentation & Measurement, accepted, to appear (2024).
 1. Yuecong Xu, Jianfei Yang, Haozhi Cao, Min Wu, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen*</b>. "Leveraging Endo- and Exo-Temporal Regularization for Black-box Video Domain Adaptation" TMLR, accepted, to appear (2024).
 1. Xiaoyao Zheng, Xingwang Li, <b>Zhenghua Chen</b>, Liping Sun, Qingying Yu, Liangmin Guo, and Yonglong Luo. "Enhanced Self-Attention Mechanism for Long and Short Term Sequential Recommendation Models", IEEE Transactions on Emerging Topics in Computational Intelligence, accepted, to appear (2024).
 1. Cunyi Yin, Xiren Miao, Jing Chen, Hao Jiang, Jianfei Yang, Yunjiao Zhou, Min Wu, and <b>Zhenghua Chen</b>. "PowerSkel: A Device-Free Framework Using CSI Signal for Human Skeleton Estimation in Power Station" IEEE Internet of Things Journal, accepted, to appear (2024).
