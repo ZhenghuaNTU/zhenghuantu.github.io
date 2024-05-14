@@ -8,7 +8,6 @@ author_profile: true
 * [Dr. Wu Keyu](https://scholar.google.com/citations?user=GpvNLrQAAAAJ&hl=en)
 * [Dr. Cui Wei](https://scholar.google.com.sg/citations?user=3yL9qTsAAAAJ&hl=zh-CN)
 * [Dr. Jin Ruibing](https://scholar.google.com/citations?user=iqloFEEAAAAJ&hl=en)
-* [Dr. Xu Yuecong](https://xuyu0010.github.io/)
 * [Dr. Mohamed Ragab](https://mohamedragab.owlstown.net/)
 * [Dr. Wang Chongxiao (CFAR)](https://www.researchgate.net/scientific-contributions/Chong-Xiao-Wang-2135516809)
 * [Dr. Emadeldeen Eldele (CFAR)](https://emadeldeen24.github.io/)
@@ -16,7 +15,6 @@ author_profile: true
 ## Research Engineers
 * [Hou Yubo](https://scholar.google.com/citations?user=MWxU3jEAAAAJ&hl=en)
 * [Xu Qing](https://scholar.google.com/citations?user=SlX-ghoAAAAJ&hl=en)
-* Yao Xuesi
 * Wang Yucheng
 * Cao Zhen
 
@@ -33,10 +31,11 @@ author_profile: true
 * Chen Zhongshu (**Exchange PhD under Chinese CSC Scholarship**), **University of Electronic Science and Technology of China**, collaborated with [Prof. Yu Liu](https://faculty.uestc.edu.cn/yuliu)
 
 ## Intern Students
-* Wang Haodong, SIGPA scholarship
-* Huang Chenxi, NUS Msc
 
 ## Alumni
+* Huang Chenxi (Intern, now PhD at HKPU)
+* Wang Haodong (Intern, now PhD at HKUST)
+* [Dr. Xu Yuecong](https://xuyu0010.github.io/) (Scientist, now Lecturer at NUS)
 * Yin Cunyi (CSC exchange PhD from Fuzhou University)
 * Pan Yatian (Intern, now PhD at NUS)
 * [Dr. Cao Zhiguang](https://zhiguangcaosg.github.io/) (Scientist, now Assistant Professor at SMU)
