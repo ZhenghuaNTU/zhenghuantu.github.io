@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* One paper entitled "TSLANet: Rethinking Transformers for Time Series Representation Learning" has been accepted by **ICML 2024**
 * I am serving as the **Associate Editor-in-Chief** for Elsivier [Neurocomputing](https://www.journals.elsevier.com/neurocomputing).
 * Two papers entitled "Graph Contextual Contrasting for Multivariate Time Series Classification" and "Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data" has been accepted by **AAAI 2024**
 * One paper entitled "Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**
