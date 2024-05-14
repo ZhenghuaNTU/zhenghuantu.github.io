@@ -14,6 +14,7 @@ author_profile: true
 
 ## Journal Publications (* represents Corresponding Author)
 # Year 2024
+1. Keyu Wu, Shengkai Chen, Min Wu, Shili Xiang, Ruibing Jin, Yuecong Xu, Xiaoli Li, and <b>Zhenghua Chen*</b>. “Reinforced Reweighting for Self-supervised Partial Domain Adaptation” IEEE Transactions on Artificial Intelligence, accepted, to appear (2024).
 1. Wei Cui, Keyu Wu, Min Wu, Xiaoli Li, and <b>Zhenghua Chen*</b>. “WiCAU: Comprehensive Partial Adaptation with Uncertainty-aware for WiFi-based Cross-environment Activity Recognition” IEEE Transactions on Instrumentation & Measurement, accepted, to appear (2024).
 1. Yuecong Xu, Jianfei Yang, Haozhi Cao, Min Wu, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen*</b>. "Leveraging Endo- and Exo-Temporal Regularization for Black-box Video Domain Adaptation" TMLR, accepted, to appear (2024).
 1. Xiaoyao Zheng, Xingwang Li, <b>Zhenghua Chen</b>, Liping Sun, Qingying Yu, Liangmin Guo, and Yonglong Luo. "Enhanced Self-Attention Mechanism for Long and Short Term Sequential Recommendation Models", IEEE Transactions on Emerging Topics in Computational Intelligence, accepted, to appear (2024).
@@ -108,6 +109,9 @@ author_profile: true
 
 
 ## Conference Publications
+
+1. <b>TSLANet: Rethinking Transformers for Time Series Representation Learning</b><br>
+Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen</b>, Min Wu, and Xiaoli Li, <br> <b>ICML 2024</b> (Acceptance Rate: 27.5%)
 
 1. <b>Graph Contextual Contrasting for Multivariate Time Series Classification</b><br>
   Yucheng Wang, Yuecong Xu, Jianfei Yang, Min Wu, Xiaoli Li, Lihua Xie and <b>Zhenghua Chen*</b>, <br> <b>AAAI 2024</b> (Acceptance Rate: 23.75%)
