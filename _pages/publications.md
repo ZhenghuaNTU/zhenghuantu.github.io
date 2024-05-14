@@ -14,8 +14,9 @@ author_profile: true
 
 ## Journal Publications (* represents Corresponding Author)
 # Year 2024
-1. Xue Geng, Zhe Wang, Chunyun Chen, Qing Xu, Kaixin Xu, Chao Jin, Manas Gupta, Xulei Yang, <b>Zhenghua Chen</b>., Mohamed M. Sabry Aly, Jie Lin, Min Wu, and Xiaoli Li. “From Algorithm to Hardware: A Survey on Efficient and Safe Deployment of Deep Neural Networks” IEEE Transactions on Neural Networks and Learning Systems, accepted, to appear (2024).
+
 1. Keyu Wu, Shengkai Chen, Min Wu, Shili Xiang, Ruibing Jin, Yuecong Xu, Xiaoli Li, and <b>Zhenghua Chen*</b>. “Reinforced Reweighting for Self-supervised Partial Domain Adaptation” IEEE Transactions on Artificial Intelligence, accepted, to appear (2024).
+1. Xue Geng, Zhe Wang, Chunyun Chen, Qing Xu, Kaixin Xu, Chao Jin, Manas Gupta, Xulei Yang, <b>Zhenghua Chen</b>., Mohamed M. Sabry Aly, Jie Lin, Min Wu, and Xiaoli Li. “From Algorithm to Hardware: A Survey on Efficient and Safe Deployment of Deep Neural Networks” IEEE Transactions on Neural Networks and Learning Systems, accepted, to appear (2024).
 1. Wei Cui, Keyu Wu, Min Wu, Xiaoli Li, and <b>Zhenghua Chen*</b>. “WiCAU: Comprehensive Partial Adaptation with Uncertainty-aware for WiFi-based Cross-environment Activity Recognition” IEEE Transactions on Instrumentation & Measurement, accepted, to appear (2024).
 1. Yuecong Xu, Jianfei Yang, Haozhi Cao, Min Wu, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen*</b>. "Leveraging Endo- and Exo-Temporal Regularization for Black-box Video Domain Adaptation" TMLR, accepted, to appear (2024).
 1. Xiaoyao Zheng, Xingwang Li, <b>Zhenghua Chen</b>, Liping Sun, Qingying Yu, Liangmin Guo, and Yonglong Luo. "Enhanced Self-Attention Mechanism for Long and Short Term Sequential Recommendation Models", IEEE Transactions on Emerging Topics in Computational Intelligence, accepted, to appear (2024).
