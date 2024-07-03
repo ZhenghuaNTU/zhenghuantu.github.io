@@ -16,6 +16,7 @@ author_profile: true
 # Year 2024
 
 1. Keyu Wu, Shengkai Chen, Min Wu, Shili Xiang, Ruibing Jin, Yuecong Xu, Xiaoli Li, and <b>Zhenghua Chen*</b>. “Reinforced Reweighting for Self-supervised Partial Domain Adaptation” IEEE Transactions on Artificial Intelligence, accepted, to appear (2024).
+1. Chao Cai, Yuming Fang, Weide Liu, Ruibing Jin, Jun Cheng, and <b>Zhenghua Chen</b>. “FedCov: Enhanced Trustworthy Federated Learning for Machine RUL Prediction with Continuous-to-Discrete Conversion” IEEE Transactions on Industrial Informatics, accepted, to appear (2024).
 1. Chao Cai, Weide Liu, Xue Xia, <b>Zhenghua Chen</b>, and Yuming Fang. “Bayesian Uncertainty Calibration for Federated Time Series Analysis” IEEE Transactions on Multimedia, accepted, to appear (2024).
 1. Xue Geng, Zhe Wang, Chunyun Chen, Qing Xu, Kaixin Xu, Chao Jin, Manas Gupta, Xulei Yang, <b>Zhenghua Chen</b>, Mohamed M. Sabry Aly, Jie Lin, Min Wu, and Xiaoli Li. “From Algorithm to Hardware: A Survey on Efficient and Safe Deployment of Deep Neural Networks” IEEE Transactions on Neural Networks and Learning Systems, accepted, to appear (2024).
 1. Hongxiang Gao, Xingyao Wang, <b>Zhenghua Chen</b>, Min Wu, Zhipeng Cai, Lulu Zhao, Jianqing Li, and Chengyu Liu. “Graph Convolutional Network with Connectivity Uncertainty for EEG-based Emotion Recognition” IEEE Journal of Biomedical and Health Informatics, accepted, to appear (2024).
