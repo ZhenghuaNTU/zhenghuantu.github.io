@@ -16,6 +16,7 @@ author_profile: true
 # Year 2024
 
 1. Keyu Wu, Shengkai Chen, Min Wu, Shili Xiang, Ruibing Jin, Yuecong Xu, Xiaoli Li, and <b>Zhenghua Chen*</b>. “Reinforced Reweighting for Self-supervised Partial Domain Adaptation” IEEE Transactions on Artificial Intelligence, accepted, to appear (2024).
+2. Wenjun Sun, Ruqiang Yan, Ruibing Jin, Rui Zhao, and <b>Zhenghua Chen</b>. "Curriculum-based Federated Learning for Machine Fault Diagnosis with Noisy Labels" IEEE Transactions on Industrial Informatics, accepted, to appear (2024).
 1. Chao Cai, Yuming Fang, Weide Liu, Ruibing Jin, Jun Cheng, and <b>Zhenghua Chen</b>. “FedCov: Enhanced Trustworthy Federated Learning for Machine RUL Prediction with Continuous-to-Discrete Conversion” IEEE Transactions on Industrial Informatics, accepted, to appear (2024).
 1. Yuecong Xu, Jianfei Yang, Haozhi Cao, Jianxiong Yin, <b>Zhenghua Chen</b>, Xiaoli Li, Zhengguo Li, and Qianwen Xu. "Going Deeper into Recognizing Actions in Dark Environments: A Comprehensive Benchmark Study", International Journal of Computer Vision, accepted, to appear (2024).
 1. Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen</b>, Min Wu, Chee-Keong Kwoh and Xiaoli Li. "Label-efficient Time Series Representation Learning: A Review" IEEE Transactions on Artificial Intelligence, accepted, to appear (2024).
