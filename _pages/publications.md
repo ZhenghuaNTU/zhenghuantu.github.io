@@ -15,6 +15,7 @@ author_profile: true
 ## Journal Publications (* represents Corresponding Author)
 # Year 2024
 1. Yucheng Wang, Yuecong Xu, Jianfei Yang, Min Wu, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen*</b>. “SEA++: Multi-Graph-based High-Order Sensor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation” IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, to appear (2024).
+1. Wenmian Yang, Lizhi Cheng, Mohamed Ragab, Min Wu, Sinno Jialin Pan, and <b>Zhenghua Chen*</b>. “A Virtual-Label-based Hierarchical Domain Adaptation Method for Time-Series Classification” IEEE Transactions on Neural Networks and Learning Systems, accepted, to appear (2024).
 1. Ziyan Wang, Mohamed Ragab, Wenmian Yang, Min Wu, Sinno Jialin Pan, Jie Zhang, and <b>Zhenghua Chen*</b>. “Overcoming Negative Transfer by Online Selection: Distant Domain Adaptation for Fault Diagnosis” IEEE Transactions on Instrumentation and Measurement, accepted, to appear (2024).
 1. Keyu Wu, Shengkai Chen, Min Wu, Shili Xiang, Ruibing Jin, Yuecong Xu, Xiaoli Li, and <b>Zhenghua Chen*</b>. “Reinforced Reweighting for Self-supervised Partial Domain Adaptation” IEEE Transactions on Artificial Intelligence, accepted, to appear (2024).
 2. Wenjun Sun, Ruqiang Yan, Ruibing Jin, Rui Zhao, and <b>Zhenghua Chen</b>. "Curriculum-based Federated Learning for Machine Fault Diagnosis with Noisy Labels" IEEE Transactions on Industrial Informatics, accepted, to appear (2024).
