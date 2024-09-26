@@ -121,6 +121,12 @@ author_profile: true
 
 ## Conference Publications
 
+1. <b>Reinforced Cross-Domain Knowledge Distillation on Time Series Data</b><br>
+Qing Xu, Min Wu, Xiaoli Li, Kezhi Mao, and <b>Zhenghua Chen*</b>, <br> <b>NeurIPS 2024</b> (Acceptance Rate: 25.8%)
+
+1. <b>Meta-Exploiting Frequency Prior for Cross-Domain Few-Shot Learning</b><br>
+Fei Zhou, Peng Wang, Lei Zhang, <b>Zhenghua Chen</b>, Wei Wei, Chen Ding, Guosheng Lin, and Yanning Zhang, <br> <b>NeurIPS 2024</b> (Acceptance Rate: 25.8%)
+
 1. <b>TSLANet: Rethinking Transformers for Time Series Representation Learning</b><br>
 Emadeldeen Eldele, Mohamed Ragab, <b>Zhenghua Chen</b>, Min Wu, and Xiaoli Li, <br> <b>ICML 2024</b> (Acceptance Rate: 27.5%)
 
