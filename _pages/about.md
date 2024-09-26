@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* Two papers entitled "Reinforced Cross-Domain Knowledge Distillation on Time Series Data" and "Meta-Exploiting Frequency Prior for Cross-Domain Few-Shot Learning" have been accepted by **NeurIPS 2024**
 * One paper entitled "SEA++: Multi-Graph-based High-Order Sensor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**
 * One paper entitled "TSLANet: Rethinking Transformers for Time Series Representation Learning" has been accepted by **ICML 2024**
 * I am serving as the **Associate Editor-in-Chief** for Elsivier [Neurocomputing](https://www.journals.elsevier.com/neurocomputing).
