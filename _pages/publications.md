@@ -121,6 +121,12 @@ author_profile: true
 
 ## Conference Publications
 
+1. <b>WiFi CSI Based Temporal Activity Detection Via Dual Pyramid Network</b><br>
+Zhendong Liu, Le Zhang, Bing Li, Yingjie Zhou, <b>Zhenghua Chen</b>, and Ce Zhu <br> <b>AAAI 2025</b> (Acceptance Rate: 23.4%)
+
+1. <b>Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation</b><br>
+Peiliang Gong, Mohamed Ragab, Min Wu, <b>Zhenghua Chen</b>, Yongyi Su, Xiaoli Li, and Daoqiang Zhang <br> <b>KDD 2025</b> (Acceptance Rate: 19%)
+
 1. <b>Reinforced Cross-Domain Knowledge Distillation on Time Series Data</b><br>
 Qing Xu, Min Wu, Xiaoli Li, Kezhi Mao, and <b>Zhenghua Chen*</b>, <br> <b>NeurIPS 2024</b> (Acceptance Rate: 25.8%)
 
