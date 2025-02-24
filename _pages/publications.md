@@ -14,11 +14,20 @@ author_profile: true
 
 ## Journal Publications (* represents Corresponding Author)
 # Year 2024
+1. Yubo Hou, Mohamed Ragab, Yucheng Wang, Min Wu, Abdulla Alseiari,
+Chee-Keong Kwoh, Xiaoli Li, and <b>Zhenghua Chen*</b>. "Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation" IEEE Transactions on Instrumentation and Measurement (2025). 
+1. Yucheng Wang, Min Wu, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen</b>. "A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends" Mechanical Systems and Signal Processing (2025).
+1. Mohamed Ragab, Min Wu, Yuecong Xu, <b>Zhenghua Chen</b>, Abdulla Alseiari, Xiaoli Li. "EverAdapt: Continuous adaptation for dynamic machine fault diagnosis environments" Mechanical Systems and Signal Processing (2025).
+
+# Year 2024
 1. Yucheng Wang, Yuecong Xu, Jianfei Yang, Min Wu, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen*</b>. “SEA++: Multi-Graph-based High-Order Sensor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation” IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, to appear (2024).
 1. Wenmian Yang, Lizhi Cheng, Mohamed Ragab, Min Wu, Sinno Jialin Pan, and <b>Zhenghua Chen*</b>. “A Virtual-Label-based Hierarchical Domain Adaptation Method for Time-Series Classification” IEEE Transactions on Neural Networks and Learning Systems, accepted, to appear (2024).
 1. Ziyan Wang, Mohamed Ragab, Wenmian Yang, Min Wu, Sinno Jialin Pan, Jie Zhang, and <b>Zhenghua Chen*</b>. “Overcoming Negative Transfer by Online Selection: Distant Domain Adaptation for Fault Diagnosis” IEEE Transactions on Instrumentation and Measurement, accepted, to appear (2024).
+1. Yang Yang, Chao Wang, Lei Gong, Min Wu, <b>Zhenghua Chen</b>, Yingxue Gao, Teng Wang, Xuehai Zhou. “Uncertainty-Aware Self-Knowledge Distillation” IEEE Transactions on Circuits and Systems for Video Technology (2024). 
+1. Yang Yang, Chao Wang, Lei Gong, Min Wu, <b>Zhenghua Chen</b>, Xiang Li, Xianglan Chen, Xuehai Zhou. “Knowledge Probabilization in Ensemble Distillation: Improving Accuracy and Uncertainty Quantification for Object Detectors” IEEE Transactions on Artificial Intelligence (2024). 
 1. Keyu Wu, Shengkai Chen, Min Wu, Shili Xiang, Ruibing Jin, Yuecong Xu, Xiaoli Li, and <b>Zhenghua Chen*</b>. “Reinforced Reweighting for Self-supervised Partial Domain Adaptation” IEEE Transactions on Artificial Intelligence, accepted, to appear (2024).
 1. Liping Sun, Fan Huang, Xiaoyao Zheng, Liangmin Guo, Qingying Yu, <b>Zhenghua Chen</b>, and Yonglong Luo. “Density Peaks Clustering Based on Label Propagation and K-Mutual-Nearest Neighbors” IEEE Transactions on Emerging Topics in Computational Intelligence, accepted, to appear (2024).
+1. Chenyang Li, Lingfei Mo, Chee Keong Kwoh, Xiaoli Li, <b>Zhenghua Chen</b>, Min Wu, Ruqiang Yan. "Noise-robust multi-view graph neural network for fault diagnosis of rotating machinery" Mechanical Systems and Signal Processing (2024).
 1. Wenjun Sun, Ruqiang Yan, Ruibing Jin, Rui Zhao, and <b>Zhenghua Chen</b>. "Curriculum-based Federated Learning for Machine Fault Diagnosis with Noisy Labels" IEEE Transactions on Industrial Informatics, accepted, to appear (2024).
 1. Chao Cai, Yuming Fang, Weide Liu, Ruibing Jin, Jun Cheng, and <b>Zhenghua Chen</b>. “FedCov: Enhanced Trustworthy Federated Learning for Machine RUL Prediction with Continuous-to-Discrete Conversion” IEEE Transactions on Industrial Informatics, accepted, to appear (2024).
 1. Yuecong Xu, Jianfei Yang, Haozhi Cao, Jianxiong Yin, <b>Zhenghua Chen</b>, Xiaoli Li, Zhengguo Li, and Qianwen Xu. "Going Deeper into Recognizing Actions in Dark Environments: A Comprehensive Benchmark Study", International Journal of Computer Vision, accepted, to appear (2024).
