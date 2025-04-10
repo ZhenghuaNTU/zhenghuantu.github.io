@@ -16,6 +16,7 @@ author_profile: true
 # Year 2024
 1. Yubo Hou, Mohamed Ragab, Yucheng Wang, Min Wu, Abdulla Alseiari,
 Chee-Keong Kwoh, Xiaoli Li, and <b>Zhenghua Chen*</b>. "Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation" IEEE Transactions on Instrumentation and Measurement (2025).
+1. Weichao Lan, Yiu-ming Cheung, Qing Xu, Buhua Liu, Zhikai Hu, Mengke Li, and <b>Zhenghua Chen</b>. "Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation" IEEE Transactions on Cognitive and Developmental Systems (2025). 
 1. Yubo Hou, Yucheng Wang, Min Wu, Chee-Keong Kwoh, Xiaoli Li, and <b>Zhenghua Chen*</b>. "Source-free Calibrated Uncertainty for RUL Adaptation with Incomplete Degradation" Mechanical Systems and Signal Processing (2025).
 1. Zhen Lan, Zixing Li, Chao Yan, Xiaojia Xiang, Dengqing Tang, Min Wu, and <b>Zhenghua Chen*</b>. “RMKD: Relaxed matching knowledge distillation for short-length SSVEP-based brain–computer interfaces” Neural Networks (2025). 
 1. Tilman Krokotsch, Mohamed Ragab, Min Wu, Xiaoli Li, <b>Zhenghua Chen</b>, and Clemens Gühmann. “From Inconsistency to Unity: Benchmarking Deep Learning-Based Unsupervised Domain Adaptation for RUL” IEEE Transactions on Automation Science and Engineering (2025).
