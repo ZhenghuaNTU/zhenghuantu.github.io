@@ -13,7 +13,9 @@ author_profile: true
 
 
 ## Journal Publications (* represents Corresponding Author)
-# Year 2024
+# Year 2025
+1. Wenmian Yang, Mohamed Ragab, Min Wu, Sinno Jialin Pan, Guosheng Lin, Weijia Jia, and <b>Zhenghua Chen*</b>. "Boosting Time-series Domain Adaptation via A Time-Frequency Consensus Framework" IEEE Transactions on Artificial Intelligence (2025). 
+1. Zhen Lan, Zixing Li, Chao Yan, Xiaojia Xiang, Dengqing Tang, Min Wu, and <b>Zhenghua Chen*</b>. "MTSNet: Convolution-based Transformer Network with Multi-scale Temporal-Spectral Feature Fusion for SSVEP Signal Decoding" IEEE Journal of Biomedical and Health Informatics (2025). 
 1. Yubo Hou, Mohamed Ragab, Yucheng Wang, Min Wu, Abdulla Alseiari,
 Chee-Keong Kwoh, Xiaoli Li, and <b>Zhenghua Chen*</b>. "Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation" IEEE Transactions on Instrumentation and Measurement (2025).
 1. Weichao Lan, Yiu-ming Cheung, Qing Xu, Buhua Liu, Zhikai Hu, Mengke Li, and <b>Zhenghua Chen</b>. "Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation" IEEE Transactions on Cognitive and Developmental Systems (2025). 
