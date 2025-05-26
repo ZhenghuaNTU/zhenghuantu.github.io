@@ -139,6 +139,9 @@ Chee-Keong Kwoh, Xiaoli Li, and <b>Zhenghua Chen*</b>. "Evidential Domain Adapta
 1. <b>WiFi CSI Based Temporal Activity Detection Via Dual Pyramid Network</b><br>
 Zhendong Liu, Le Zhang, Bing Li, Yingjie Zhou, <b>Zhenghua Chen</b>, and Ce Zhu <br> <b>AAAI 2025</b> (Acceptance Rate: 23.4%)
 
+1. <b>Temporal Restoration and Spatial Rewiring for Source-Free Multivariate Time Series Domain Adaptation</b><br>
+Peiliang Gong, Yucheng Wang, Min Wu, <b>Zhenghua Chen</b>, Xiaoli Li, and Daoqiang Zhang <br> <b>KDD 2025</b> (Acceptance Rate: 19%)
+
 1. <b>Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation</b><br>
 Peiliang Gong, Mohamed Ragab, Min Wu, <b>Zhenghua Chen</b>, Yongyi Su, Xiaoli Li, and Daoqiang Zhang <br> <b>KDD 2025</b> (Acceptance Rate: 19%)
 
