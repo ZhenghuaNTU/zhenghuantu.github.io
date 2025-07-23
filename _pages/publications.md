@@ -14,8 +14,11 @@ author_profile: true
 
 ## Journal Publications (* represents Corresponding Author)
 # Year 2025
-1. Wenmian Yang, Mohamed Ragab, Min Wu, Sinno Jialin Pan, Guosheng Lin, Weijia Jia, and <b>Zhenghua Chen*</b>. "Boosting Time-series Domain Adaptation via A Time-Frequency Consensus Framework" IEEE Transactions on Artificial Intelligence (2025). 
+1. Yubo Hou, Mohamed Ragab, Min Wu, Chee-Keong Kwoh, Xiaoli Li, and <b>Zhenghua Chen*</b>. "Target-specific Adaptation and Consistent Degradation Alignment for Cross-Domain Remaining Useful Life Prediction" IEEE Transactions on Automation Science and Engineering (2025).
+1. Wenmian Yang, Mohamed Ragab, Min Wu, Sinno Jialin Pan, Guosheng Lin, Weijia Jia, and <b>Zhenghua Chen*</b>. "Boosting Time-series Domain Adaptation via A Time-Frequency Consensus Framework" IEEE Transactions on Artificial Intelligence (2025).
+1. Yaoyao Zhou, Gang Chen, and <b>Zhenghua Chen</b>. "Process-based Triggering and Accelerated Dual Averaging Algorithm for Dynamic Parameter Estimation" IEEE Transactions on Signal and Information Processing over Networks (2025). 
 1. Zhen Lan, Zixing Li, Chao Yan, Xiaojia Xiang, Dengqing Tang, Min Wu, and <b>Zhenghua Chen*</b>. "MTSNet: Convolution-based Transformer Network with Multi-scale Temporal-Spectral Feature Fusion for SSVEP Signal Decoding" IEEE Journal of Biomedical and Health Informatics (2025).
+1. Wenwen Zhang, <b>Zhenghua Chen</b>, Yongyi Su, Zhiyu Xiang, Hangguan Shan, and Eryun Liu. "Bidirectional Segmentation-Aware Network for one-shot object detection" Neurocomputing (2025). 
 1. Jin He, Wei Wang, Fengmao Lv, Haonan Luo, Gexiang Zhang, and <b>Zhenghua Chen</b>. “Multi-Scale CNN-Transformer Hybrid Network for Rail Fastener Defect Detection” IEEE Transactions on Intelligent Transportation Systems (2025). 
 1. Yang Yang, Chao Wang, Lei Gong, Min Wu, <b>Zhenghua Chen</b>, and Xuehai Zhou. "FG-KD: A Novel Forward Gradient-Based Framework for Teacher Knowledge Augmentation" IEEE Transactions on Artificial Intelligence (2025). 
 1. Yubo Hou, Mohamed Ragab, Yucheng Wang, Min Wu, Abdulla Alseiari, Chee-Keong Kwoh, Xiaoli Li, and <b>Zhenghua Chen*</b>. "Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation" IEEE Transactions on Instrumentation and Measurement (2025).
