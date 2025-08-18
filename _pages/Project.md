@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /project/
 author_profile: true
 ---
-## On-going Projects
+## Completed Projects
 * ***Self-aware Continuously Learning Models***,  
 AISG,  
 2022.06 - 2025.05,  
@@ -32,7 +32,6 @@ PIPS Grant,
 2020.08 - 2022.05,  
 <b>Co-PI</b>, collabrated with Dr. Yu Zaiqun  
 
-## Completed Projects
 * ***Deep Learning for Heterogeneous Data***,   
 A*STAR Core Fund,   
 <b>PI</b>
