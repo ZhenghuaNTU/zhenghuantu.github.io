@@ -22,7 +22,7 @@ author_profile: true
 
 * **CSC Scholarships**: Support for outstanding Chinese students through the China Scholarship Council (CSC) program.
 
-* **A*STAR ARAP Scholarships**: Joint training opportunities under the A*STAR Research Attachment Programme (ARAP), enabling students to spend part of their PhD in Singapore. ([click here for more details](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-research-attachment-programme-(arap))). 
+* **ASTAR ARAP Scholarships**: Joint training opportunities under the A*STAR Research Attachment Programme (ARAP), enabling students to spend part of their PhD in Singapore. ([click here for more details](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-research-attachment-programme-(arap))). 
 
 
 ## Visiting Scholars & Students
