@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+* <b><span style="color:red">I will join University of Glasgow, UK as a Senior Lecturer (Associate Professor) at September 2025. Looking for highly motivated students to join my team: PhD students (full scholarship, CSC scholarship, ARAP A*STAR joint scholarship, etc.); Postdoc (do not have direct funding to support, but can support to apply postdoc fellowships, like Newton International Fellowship and Marie Curie Fellowship); Visitng students/scholars.</span></b>
 
 * I am currently a <b>Senior Scientist II</b> (<b>Principal Investigator, Lab Head, PhD advisor</b>) at [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (A*STAR), Singapore, an <b>Early Career Investigator</b> at [Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar/home), A*STAR, Singapore and a <b>Part-time Lecturer</b> at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx).
 
