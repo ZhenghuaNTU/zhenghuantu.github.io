@@ -22,12 +22,15 @@ author_profile: true
   * IEEE Sensors Council Singapore Chapter, 2021-2023, Vice Chair 
   * Member of the IEEE IES Technical Committee on Industrial Cyber-Physical Systems
   * IEEE Senior Member
-* **Conference Chair**, 
-  * IEEE IECON 2022 (Invited Session Chair)
+* **Conference Chair**,
+  * PHMAP 2025 (TPC Chair)
+  * ICLR 2025, 2026 (Area Chair)
+  * IEEE IECON 2023 (Special Session Chair)
   * IEEE ICARCV 2022 (Invited Session Chair)
   * IEEE ICIEA 2020, 2021, 2022 (Track Chair)
   * IEEE IECON 2020 (Track Chair)
 * **Conference/Workshop/Challenge Organizer**, 
+  * [IJCAI 2024](https://ijcai24.org/), 4th International Workshop on "Deep Learning for Human Activity Recognition".
   * [ICDM 2022](https://sustainai.github.io/icdm2022_workshop/), 1st International Workshop on "Sustainable AI"
   * [CVPR 2022](https://cvpr2022.thecvf.com/), 5th UG2+ Prize Challenge.
   * [IJCAI 2019](https://ijcai19.org/), 1st International Workshop on "Deep Learning for Human Activity Recognition".
