@@ -7,16 +7,11 @@ author_profile: true
 ## Research Scientists
 * [Dr. Wu Keyu](https://scholar.google.com/citations?user=GpvNLrQAAAAJ&hl=en)
 * [Dr. Cui Wei](https://scholar.google.com.sg/citations?user=3yL9qTsAAAAJ&hl=zh-CN)
-* [Dr. Jin Ruibing](https://scholar.google.com/citations?user=iqloFEEAAAAJ&hl=en)
-* [Dr. Mohamed Ragab](https://mohamedragab.owlstown.net/)
-* [Dr. Wang Chongxiao (CFAR)](https://www.researchgate.net/scientific-contributions/Chong-Xiao-Wang-2135516809)
-* [Dr. Emadeldeen Eldele (CFAR)](https://emadeldeen24.github.io/)
 
 ## Research Engineers
 * [Hou Yubo](https://scholar.google.com/citations?user=MWxU3jEAAAAJ&hl=en)
 * [Xu Qing](https://scholar.google.com/citations?user=SlX-ghoAAAAJ&hl=en)
-* Wang Yucheng
-* Cao Zhen
+* [Wang Yucheng](https://scholar.google.com/citations?user=fYdXtSoAAAAJ&hl=en)
 
 ## PhD Students
 <!--- [Mohamed Ragab](https://mohamedragab.owlstown.net/) (**SINGA scholarship**), **NTU**, collaborated with [Prof. Kwoh Chee-Keong](https://personal.ntu.edu.sg/asckkwoh/) and [Prof. Li Xiaoli](https://personal.ntu.edu.sg/xlli/) (**Graduated at 2022**) ---> 
@@ -25,14 +20,19 @@ author_profile: true
 * [Hou Yubo](https://scholar.google.com/citations?user=MWxU3jEAAAAJ&hl=en) (**Part-time PhD**), **NTU**, collaborated with [Prof. Kwoh Chee-Keong](https://personal.ntu.edu.sg/asckkwoh/) 
 * [Xu Qing](https://scholar.google.com/citations?user=SlX-ghoAAAAJ&hl=en) (**Part-time PhD**), **NTU**, collaborated with [Prof. Mao Kezhi](https://scholar.google.com/citations?user=jCsRJXUAAAAJ&hl=en)
 * [Wang Yucheng](https://frank-wang-oss.github.io/) (**Part-time PhD**), **NTU**, collaborated with [Prof. Xie Lihua](https://personal.ntu.edu.sg/elhxie/)
-* Zhang Wenwen (**Exchange PhD under Chinese CSC Scholarship**), **Zhejiang University**, collaborated with [Prof. Eryun Liu](https://person.zju.edu.cn/eryunliu#0)
-* Zhou Yaoyao (**Exchange PhD under Chinese CSC Scholarship**), **Chongqing University**, collaborated with [Prof. Gang Chen](http://accu.cqu.edu.cn/info/1219/4293.htm)
-* Lan Zhen (**Exchange PhD under Chinese CSC Scholarship**), **National University of Defense Technology**, collaborated with [Prof. Aiguo Fei](https://ieeexplore.ieee.org/author/37087030586)
-* Chen Zhongshu (**Exchange PhD under Chinese CSC Scholarship**), **University of Electronic Science and Technology of China**, collaborated with [Prof. Yu Liu](https://faculty.uestc.edu.cn/yuliu)
 
 ## Intern Students
 
 ## Alumni
+* Emadeldeen Eldele (Scientist, Assistant Professor at Khalifa University)
+* Mohamed Ragab (Scientist, Research Scientist at Technology Innovation Institute, UAE)
+* Jin Ruibing (Scientist)
+* Wang Chongxiao (Scientst at CFAR)
+* Cao Zhen (Scientist, Startup)
+* Zhang Wenwen (CSC exchange PhD from Zhejiang University)
+* Zhou Yaoyao (CSC exchange PhD from Chongqing University)
+* Lan Zhen (CSC exchange PhD from National University of Defense Technology)
+* Chen Zhongshu (CSC exchange PhD from UESTC)
 * Huang Chenxi (Intern, now PhD at HKPU)
 * Wang Haodong (Intern, now PhD at HKUST)
 * [Dr. Xu Yuecong](https://xuyu0010.github.io/) (Scientist, now Lecturer at NUS)
