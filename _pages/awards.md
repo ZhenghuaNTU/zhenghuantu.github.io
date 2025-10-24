@@ -4,6 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+* **IEEE TII Outstanding Associate Editor Award, 2025**
 * **Springer Nature Editorial Contribution Award, 2025**
 * **Springer Nature Author Service Award, 2025**
 * **IEEE TIM Outstanding Associate Editor Award, 2025**
