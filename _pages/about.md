@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* **I will join University of Glasgow, UK as a Senior Lecturer (Associate Professor) at September 2025.**
+* **I am currently a Senior Lecturer (Associate Professor) at University of Glasgow, UK.**
 
 * <b><span style="color:red">Looking for highly motivated students to join my team</span></b>:
   * PhD students (full scholarship, CSC scholarship, ARAP A*STAR joint scholarship, etc.);
   * Postdoc (do not have direct funding to support, but can support to apply postdoc fellowships, like Newton International Fellowship and Marie Curie Fellowship);
   * Visitng students/scholars.
 
-* I am currently a <b>Senior Scientist II</b> (<b>Principal Investigator, Lab Head, PhD advisor</b>) at [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (A*STAR), Singapore, an <b>Early Career Investigator</b> at [Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar/home), A*STAR, Singapore and a <b>Part-time Lecturer</b> at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx).
+* I was a <b>Senior Scientist II</b> (<b>Principal Investigator, Lab Head, PhD advisor</b>) at [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (A*STAR), Singapore, an <b>Early Career Investigator</b> at [Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar/home), A*STAR, Singapore and a <b>Part-time Lecturer</b> at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx).
 
 * I obtained my Bachelor’s Degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) at 2011 and PhD's Degree from [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx) at 2017 under the supervision of Prof. [Yeng Chai Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EYCSOH). After graduation, I have been working at NTU as a Research Fellow under the supervision of IEEE Fellow, IFAC Fellow, Prof. [Lihua Xie](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=elhxie).
 
@@ -26,6 +26,7 @@ redirect_from:
 
 
 # Recent News
+* I have been chosen as **Outstanding Associate Editor** of **IEEE Transactions on Industrial Informatics** for 2024
 * Two papers entitled "Reinforced Cross-Domain Knowledge Distillation on Time Series Data" and "Meta-Exploiting Frequency Prior for Cross-Domain Few-Shot Learning" have been accepted by **NeurIPS 2024**
 * One paper entitled "SEA++: Multi-Graph-based High-Order Sensor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**
 * One paper entitled "TSLANet: Rethinking Transformers for Time Series Representation Learning" has been accepted by **ICML 2024**
