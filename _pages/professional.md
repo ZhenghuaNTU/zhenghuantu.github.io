@@ -6,6 +6,7 @@ author_profile: true
 ---
 * **Editorial Borad**
   * [Elsivier Neurocomputing](https://www.journals.elsevier.com/neurocomputing), 2024 - Present, Associate Editor-in-Chief
+  * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), 2025 - present, Associate Editor
   * [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), 2023 - present, Associate Editor
   * [IEEE Transactions on Industrial Cyber-Physical Systems](https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems), 2023 - present, Associate Editor
   * [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19), 2022 - present, Associate Editor
