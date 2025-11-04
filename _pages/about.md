@@ -26,6 +26,7 @@ redirect_from:
 
 
 # Recent News
+* I am serving as the **Associate Editor** for **[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)**.
 * I have been chosen as **Outstanding Associate Editor** of **IEEE Transactions on Industrial Informatics** for 2024
 * Two papers entitled "Reinforced Cross-Domain Knowledge Distillation on Time Series Data" and "Meta-Exploiting Frequency Prior for Cross-Domain Few-Shot Learning" have been accepted by **NeurIPS 2024**
 * One paper entitled "SEA++: Multi-Graph-based High-Order Sensor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**
