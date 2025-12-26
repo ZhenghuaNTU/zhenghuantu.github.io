@@ -14,6 +14,9 @@ author_profile: true
 
 ## Journal Publications (* represents Corresponding Author)
 # Year 2025
+1. Ragab Mohamed, Peiliang Gong, Emadeldeen Eldele, Wenyu Zhang, Min Wu, Chuan-Sheng Foo, Daoqiang Zhang, Xiaoli Li, and <b>Zhenghua Chen*</b>. “Evidentially Calibrated Source-Free Time-Series Domain Adaptation with Temporal Imputation” IEEE Transactions on Knowledge and Data Engineering (2025). 
+1. Cunyi Yin, Zhaoke Huang, Hao Jiang, Jing Chen, Zhida Wang,Chenwei Wang, <b>Zhenghua Chen</b>, Zhiwen Chen, and Hong Yan. ``A Spatio-Temporal Feature Distribution Network for Device-Free Power Inspection Activity Using WiFi CSI'', IEEE Transactions on Industrial Informatics (2025).
+1. Zhongshu Chen, <b>Zhenghua Chen</b>, Lin Zuo, and Yu Liu. ``MarkingVLM: Vision-Language Model for Few-Shot IC Marking Detection'', IEEE Transactions on Industrial Informatics (2025).
 1. Yubo Hou, Mohamed Ragab, Min Wu, Chee-Keong Kwoh, Xiaoli Li, and <b>Zhenghua Chen*</b>. "Target-specific Adaptation and Consistent Degradation Alignment for Cross-Domain Remaining Useful Life Prediction" IEEE Transactions on Automation Science and Engineering (2025).
 1. Wenmian Yang, Mohamed Ragab, Min Wu, Sinno Jialin Pan, Guosheng Lin, Weijia Jia, and <b>Zhenghua Chen*</b>. "Boosting Time-series Domain Adaptation via A Time-Frequency Consensus Framework" IEEE Transactions on Artificial Intelligence (2025).
 1. Yaoyao Zhou, Gang Chen, and <b>Zhenghua Chen</b>. "Process-based Triggering and Accelerated Dual Averaging Algorithm for Dynamic Parameter Estimation" IEEE Transactions on Signal and Information Processing over Networks (2025). 
