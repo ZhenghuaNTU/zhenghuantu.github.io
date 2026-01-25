@@ -4,10 +4,11 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+* **IEEE TIM Outstanding Associate Editor Award, 2025**
 * **IEEE TII Outstanding Associate Editor Award, 2025**
 * **Springer Nature Editorial Contribution Award, 2025**
 * **Springer Nature Author Service Award, 2025**
-* **IEEE TIM Outstanding Associate Editor Award, 2025**
+* **IEEE TIM Outstanding Associate Editor Award, 2024**
 * **IES Prestigious Engineering Achievement Awards, 2024**
 * **World's Top 2% Scientist 2020, 2021, 2022, 2023, 2024**
 * **Third Prize in 2023 IEEE Enginneering in Medicine and Biology Society Prize Paper Award**
