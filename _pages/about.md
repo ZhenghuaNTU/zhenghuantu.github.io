@@ -26,6 +26,7 @@ redirect_from:
 
 
 # Recent News
+* One paper entitled "Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**
 * I am serving as the **Associate Editor** for **[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)**.
 * I have been chosen as **Outstanding Associate Editor** of **IEEE Transactions on Instrumentation and Measurement** for 2025
 * I have been chosen as **Outstanding Associate Editor** of **IEEE Transactions on Industrial Informatics** for 2024
