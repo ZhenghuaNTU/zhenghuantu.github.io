@@ -10,7 +10,7 @@ author_profile: true
 1. <b>[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)</b> <br> 
 <b>Zhenghua Chen</b>, Chaoyang Jiang, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> In
 "Deep Learning: Algorithms and Applications", pp. 335-357. <i>Springer</i>, Cham, 2020.
-1. <b>[AI for Time Series: Volume 1: Unlocking Patterns with Deep Learning]([https://link.springer.com/book/10.1007/978-981-16-0575-8](https://books.google.co.uk/books?hl=en&lr=&id=G9PKEQAAQBAJ&oi=fnd&pg=PT7&dq=info:x_FSi85PnrwJ:scholar.google.com&ots=fj2KM96xjI&sig=wFLpmphJSTbEpVrWAcyKQWb4da8&redir_esc=y#v=onepage&q&f=false))</b> <br>Min Wu, Emadeldeen Eldele, <b>Zhenghua Chen</b>, Shirui Pan, Qingsong Wen, and Xiaoli Li, <br><i>Springer<i>, 2026.
+1. <b>[AI for Time Series: Volume 1: Unlocking Patterns with Deep Learning](https://books.google.co.uk/books?hl=en&lr=&id=G9PKEQAAQBAJ&oi=fnd&pg=PT7&dq=info:x_FSi85PnrwJ:scholar.google.com&ots=fj2KM96xjI&sig=wFLpmphJSTbEpVrWAcyKQWb4da8&redir_esc=y#v=onepage&q&f=false)</b> <br>Min Wu, Emadeldeen Eldele, <b>Zhenghua Chen</b>, Shirui Pan, Qingsong Wen, and Xiaoli Li, <br><i>CRC Press<i>, 2026.
 
 
 ## Journal Publications (* represents Corresponding Author)
