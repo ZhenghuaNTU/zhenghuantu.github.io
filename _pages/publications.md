@@ -10,10 +10,12 @@ author_profile: true
 1. <b>[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)</b> <br> 
 <b>Zhenghua Chen</b>, Chaoyang Jiang, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> In
 "Deep Learning: Algorithms and Applications", pp. 335-357. <i>Springer</i>, Cham, 2020.
+1. <b>[AI for Time Series: Volume 1: Unlocking Patterns with Deep Learning]([https://link.springer.com/book/10.1007/978-981-16-0575-8](https://books.google.co.uk/books?hl=en&lr=&id=G9PKEQAAQBAJ&oi=fnd&pg=PT7&dq=info:x_FSi85PnrwJ:scholar.google.com&ots=fj2KM96xjI&sig=wFLpmphJSTbEpVrWAcyKQWb4da8&redir_esc=y#v=onepage&q&f=false))</b> <br>Min Wu, Emadeldeen Eldele, <b>Zhenghua Chen</b>, Shirui Pan, Qingsong Wen, and Xiaoli Li, <br><i>Springer<i>, 2026.
 
 
 ## Journal Publications (* represents Corresponding Author)
 # Year 2026
+1. Yucheng Wang, Peiliang Gong, Min Wu, Felix Ott, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen*</b>. “Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation” IEEE Transactions on Pattern Analysis and Machine Intelligence (2026). 
 1. Ragab Mohamed, Peiliang Gong, Emadeldeen Eldele, Wenyu Zhang, Min Wu, Chuan-Sheng Foo, Daoqiang Zhang, Xiaoli Li, and <b>Zhenghua Chen*</b>. “Evidentially Calibrated Source-Free Time-Series Domain Adaptation with Temporal Imputation” IEEE Transactions on Knowledge and Data Engineering (2026).
 1. Peiliang Gong, Eldele Emadeldeen, Min Wu, <b>Zhenghua Chen</b>, Xiaoli Li, and Daoqiang Zhang. "Bridging Distribution Gaps in Time Series Foundation Model Pretraining with Prototype-Guided Normalization", IEEE Transactions on Neural Networks and Learning Systems (2026).
 # Year 2025
