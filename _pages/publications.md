@@ -17,6 +17,7 @@ author_profile: true
 # Year 2026
 1. Yucheng Wang, Peiliang Gong, Min Wu, Felix Ott, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen*</b>. “Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation” IEEE Transactions on Pattern Analysis and Machine Intelligence (2026). 
 1. Ragab Mohamed, Peiliang Gong, Emadeldeen Eldele, Wenyu Zhang, Min Wu, Chuan-Sheng Foo, Daoqiang Zhang, Xiaoli Li, and <b>Zhenghua Chen*</b>. “Evidentially Calibrated Source-Free Time-Series Domain Adaptation with Temporal Imputation” IEEE Transactions on Knowledge and Data Engineering (2026).
+1. Yucheng Wang, Mohamed Ragab, Yubo Hou, Min Wu, Xiaoli Li, and <b>Zhenghua Chen</b>. "Deep Domain Adaptation for Turbofan Engine Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends", IEEE/CAA Journal of Automatica Sinica (2026).
 1. Peiliang Gong, Eldele Emadeldeen, Min Wu, <b>Zhenghua Chen</b>, Xiaoli Li, and Daoqiang Zhang. "Bridging Distribution Gaps in Time Series Foundation Model Pretraining with Prototype-Guided Normalization", IEEE Transactions on Neural Networks and Learning Systems (2026).
 # Year 2025
 1. Cunyi Yin, Zhaoke Huang, Hao Jiang, Jing Chen, Zhida Wang,Chenwei Wang, <b>Zhenghua Chen</b>, Zhiwen Chen, and Hong Yan. ``A Spatio-Temporal Feature Distribution Network for Device-Free Power Inspection Activity Using WiFi CSI'', IEEE Transactions on Industrial Informatics (2025).
