@@ -15,6 +15,7 @@ author_profile: true
 
 ## Journal Publications (* represents Corresponding Author)
 # Year 2026
+1. Yucheng Wang, Min Wu, Yuecong Xu, Jianfei Yang, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen*</b>. “Gaussian Adaptive Patching Powered Fully-Connected Spatial-Temporal Graph for Multivariate Time-Series Data” IEEE Transactions on Pattern Analysis and Machine Intelligence (2026). 
 1. Yucheng Wang, Peiliang Gong, Min Wu, Felix Ott, Xiaoli Li, Lihua Xie, and <b>Zhenghua Chen*</b>. “Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation” IEEE Transactions on Pattern Analysis and Machine Intelligence (2026). 
 1. Ragab Mohamed, Peiliang Gong, Emadeldeen Eldele, Wenyu Zhang, Min Wu, Chuan-Sheng Foo, Daoqiang Zhang, Xiaoli Li, and <b>Zhenghua Chen*</b>. “Evidentially Calibrated Source-Free Time-Series Domain Adaptation with Temporal Imputation” IEEE Transactions on Knowledge and Data Engineering (2026).
 1. Yucheng Wang, Mohamed Ragab, Yubo Hou, Min Wu, Xiaoli Li, and <b>Zhenghua Chen</b>. "Deep Domain Adaptation for Turbofan Engine Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends", IEEE/CAA Journal of Automatica Sinica (2026).
