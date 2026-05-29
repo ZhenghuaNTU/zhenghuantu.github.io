@@ -11,7 +11,7 @@ author_profile: true
 <b>Zhenghua Chen</b>, Chaoyang Jiang, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> In
 "Deep Learning: Algorithms and Applications", pp. 335-357. <i>Springer</i>, Cham, 2020.
 1. <b>[AI for Time Series: Volume 1: Unlocking Patterns with Deep Learning](https://books.google.co.uk/books?hl=en&lr=&id=G9PKEQAAQBAJ&oi=fnd&pg=PT7&dq=info:x_FSi85PnrwJ:scholar.google.com&ots=fj2KM96xjI&sig=wFLpmphJSTbEpVrWAcyKQWb4da8&redir_esc=y#v=onepage&q&f=false)</b> <br>Min Wu, Emadeldeen Eldele, <b>Zhenghua Chen</b>, Shirui Pan, Qingsong Wen, and Xiaoli Li, <br><i>CRC Press<i>, 2026.
-
+1. <b>[AI for Time Series: Volume 2: Building Robust and Generalizable Models](https://books.google.co.uk/books?hl=en&lr=&id=NTTbEQAAQBAJ&oi=fnd&pg=PA7&dq=info:BfI3nUAixTwJ:scholar.google.com&ots=AyOspgzp1O&sig=OQlDuT2sK040YIBgTF4SSvJ8pBQ&redir_esc=y#v=onepage&q&f=false)</b> <br>Min Wu, Emadeldeen Eldele, <b>Zhenghua Chen</b>, Shirui Pan, Qingsong Wen, and Xiaoli Li, <br><i>CRC Press<i>, 2026.
 
 ## Journal Publications (* represents Corresponding Author)
 # Year 2026
@@ -20,6 +20,7 @@ author_profile: true
 1. Ragab Mohamed, Peiliang Gong, Emadeldeen Eldele, Wenyu Zhang, Min Wu, Chuan-Sheng Foo, Daoqiang Zhang, Xiaoli Li, and <b>Zhenghua Chen*</b>. “Evidentially Calibrated Source-Free Time-Series Domain Adaptation with Temporal Imputation” IEEE Transactions on Knowledge and Data Engineering (2026).
 1. Yucheng Wang, Mohamed Ragab, Yubo Hou, Min Wu, Xiaoli Li, and <b>Zhenghua Chen</b>. "Deep Domain Adaptation for Turbofan Engine Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends", IEEE/CAA Journal of Automatica Sinica (2026).
 1. Peiliang Gong, Eldele Emadeldeen, Min Wu, <b>Zhenghua Chen</b>, Xiaoli Li, and Daoqiang Zhang. "Bridging Distribution Gaps in Time Series Foundation Model Pretraining with Prototype-Guided Normalization", IEEE Transactions on Neural Networks and Learning Systems (2026).
+1. Yang Yang, Junyao Hou, Miao Zhang, Xiang Li, <b>Zhenghua Chen</b>, Yingxue Gao, Chao Wang, Min Wu, and Quanjun Yin. "Geometric Contrastive Ensemble Distillation with Calibration Margin Induction", Pattern Recognition (2026).
 # Year 2025
 1. Cunyi Yin, Zhaoke Huang, Hao Jiang, Jing Chen, Zhida Wang,Chenwei Wang, <b>Zhenghua Chen</b>, Zhiwen Chen, and Hong Yan. ``A Spatio-Temporal Feature Distribution Network for Device-Free Power Inspection Activity Using WiFi CSI'', IEEE Transactions on Industrial Informatics (2025).
 1. Zhongshu Chen, <b>Zhenghua Chen</b>, Lin Zuo, and Yu Liu. ``MarkingVLM: Vision-Language Model for Few-Shot IC Marking Detection'', IEEE Transactions on Industrial Informatics (2025).
