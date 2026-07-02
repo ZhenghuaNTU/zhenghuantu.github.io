@@ -26,6 +26,8 @@ redirect_from:
 
 
 # Recent News
+* I am serving as the **Associate Editor-in-Chief** for **[IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)**.
+* One paper entitled "PCBClip: Vision-Language Defect Detection Model for Low-Sample Inspection Systems" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**
 * One paper entitled "Gaussian Adaptive Patching Powered Fully-Connected Spatial-Temporal Graph for Multivariate Time-Series Data" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**
 * One paper entitled "Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation" has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**
 * I am serving as the **Associate Editor** for **[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)**.
